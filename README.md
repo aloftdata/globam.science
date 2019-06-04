@@ -1,2 +1,1 @@
-# globam.net
-GloBAM project website
+# GloBAM project website
