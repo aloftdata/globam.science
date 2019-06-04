@@ -25,7 +25,8 @@ github_username: enram
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
