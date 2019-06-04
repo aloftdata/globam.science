@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Towards monitoring, understanding and forecasting global biomass flows 
   of aerial migrants.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://enram.github.io/globam.science" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: globam_net
 github_username: enram
 
