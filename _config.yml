@@ -16,8 +16,8 @@ description: >
   of aerial migrants.
 email: globam@vogelwarte.ch
 author: GloBAM partners
-# baseurl: "/globam.science" # the subpath of your site, e.g. /blog
-# url: "https://enram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/globam.science" # the subpath of your site, e.g. /blog
+url: "https://enram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SOCIAL PROFILES
 
