@@ -1,0 +1,22 @@
+links_title: Project partners
+links:
+  - name: Swiss Ornithological Institute
+    link: https://www.vogelwarte.com
+    new_window: true
+  - name: Centre for Ecology and Conservation, University of Exeter
+    link: https://biosciences.exeter.ac.uk/cec/
+    new_window: true
+  - name: Cornell Lab of Ornithology
+    link: https://www.birds.cornell.edu/
+    new_window: true
+  - name: Radar and Space Technology, Finnish Meteorological Institute
+    link: https://en.ilmatieteenlaitos.fi/radar-and-space-technology
+    new_window: true
+  - name: Open science lab for biodiversity, Research Institute for Nature and Forest (INBO)
+    link: https://pureportal.inbo.be/portal/en/organisations/oscibio(0ab4aa1e-b25f-4dc3-90c1-ddcfbc726fe8).html
+    new_window: true
+  - name: Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam
+    link: https://ibed.uva.nl/
+    new_window: true
+funding: This project is funded by BiodivScen.
+disclaimer: Content on this site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
