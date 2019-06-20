@@ -1,0 +1,6 @@
+- name: About
+  link: /about/
+  new_window: false
+- name: Team
+  link: /team/
+  new_window: false
