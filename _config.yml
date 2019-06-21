@@ -45,7 +45,7 @@ defaults:
 
 markdown: kramdown
 theme: minima
-remote_theme: peterdesmet/research-project
+remote_theme: peterdesmet/petridish
 plugins:
   - jekyll-remote-theme
   # - jekyll-feed
