@@ -4,5 +4,4 @@ description: Towards monitoring, understanding and forecasting global biomass fl
 background: "assets/img/kelvin-yan-1333097-unsplash.jpg"
 ---
 
-This is the [home page](#).
-
+This is the homepage.
