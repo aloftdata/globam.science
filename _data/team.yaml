@@ -36,3 +36,16 @@
   orcid: 0000-0001-8957-4411
   github: CeciliaNilsson709
   twitter: cnilsson709
+
+- name: Baptiste Schmid
+  role: Associated researcher
+  image: assets/img/schmid_photo.jpg
+  description: >
+    Baptiste is fascinated by observing animal movements and works with radar systems to investigate
+    the spatio-temporal dynamics of mass migratory movements. He feels very fortunate to conduct
+    research on avian migration at the
+    [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Within GloBAM, Baptiste is
+    working to improve our ability to distinguish bats and insects from birds in radar signals.
+  orcid: 0000-0002-7736-7527
+  github: baptischmi
+  twitter: baptischmi
