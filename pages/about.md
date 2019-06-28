@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 
-Our fundamental objectives are to monitor the aerial migrations of animals (birds, insects and bats) using weather radar networks, 
-understand global patterns in the intensity, routes and timing of aerial migrations, and to forecast how these migrations are likely to 
-respond to global change:
+Our fundamental objectives are to **monitor** the aerial migrations of animals (birds, insects and bats) using weather radar networks, 
+**understand** global patterns in the intensity, routes and timing of aerial migrations, and to **forecast** how these migrations are 
+likely to respond to global change:
 
 ## Monitoring
 We will tap into the potential of continental weather radar networks to monitor aerial migrations. We will use algorithms for retrieving 
