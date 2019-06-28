@@ -14,12 +14,11 @@
   
   - name: Andrew Farnsworth
   role: Leader - Quantifying biomass flows
-  image: "assets/img/farnsworth_photo.png"
+  image: assets/img/farnsworth_photo.png
   description: >
     Andrew is fascinated by bird migration and uses rapidly expanding technologies for studying bird
     movements, including weather surveillance radar, acoustic monitoring, video monitoring and
-    citizen science. He is a Research Associate in the Information Science Program at the [Cornell Lab
-    of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading efforts to
+    citizen science. He is a Research Associate in the Information Science Program at the 
+    [Cornell Lab of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading efforts to
     quantify and characterize the biomass flows of aerial migrants.
   orcid: 0000-0002-9854-4449
-  email: Af27@cornell.edu
