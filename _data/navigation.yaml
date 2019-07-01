@@ -1,5 +1,8 @@
 # Links listed below will be included in your site navigation
 
+- name: Home
+  link: /
+  new_window: false
 - name: About
   link: /about/
   new_window: false
