@@ -24,19 +24,30 @@ url: "http://globam.science" # the base hostname & protocol for your site, e.g. 
 twitter_username: globam_net
 github_username: enram
 
-# TEMPLATE SETTINGS
+# THEME SETTINGS
 
+logo: assets/img/nav_logo.png
+posts_on_home: 3
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
 defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
   -
     scope:
       path: ""
       type: "posts"
     values:
+      layout: "page"
       permalink: "/news/:slug/"
-
-# THEME SETTINGS
-
-logo: assets/img/nav_logo.png
 
 # BUILD SETTINGS
 
@@ -47,6 +58,7 @@ plugins:
   - jekyll-remote-theme
   # - jekyll-feed
   # - jekyll-paginate
+  - jekyll-archives
   # - jekyll-sitemap
 exclude:
   - README.md
