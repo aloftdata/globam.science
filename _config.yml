@@ -56,7 +56,6 @@ theme: minima
 remote_theme: peterdesmet/petridish
 plugins:
   - jekyll-remote-theme
-  # - jekyll-paginate
   - jekyll-archives
   - jekyll-feed
   # - jekyll-sitemap
