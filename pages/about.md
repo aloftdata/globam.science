@@ -29,7 +29,7 @@ changing? Next, we will identify the abiotic and biotic drivers, such as weather
 installations, of the observed patterns in biomass flows of aerial migrants. We aim to identify overarching similarities in functional 
 relationships with external variables and variation in these relationships among seasons, regions, continents and taxa.
 
-![biomass flows](https://github.com/enram/globam.science/blob/master/assets/img/biomass_flow_fig_cropped.png)
+![biomass flows](/assets/img/biomass_flow_fig_cropped.png)
 _Average migration intensities across a) Europe over 3 weeks in autumn 2016 (from [Nilsson et al. 2018](https://doi.org/10.1111/ecog.04003)), and b) during spring across the US between 1995-2017 (from [Horton et al. 2019](https://doi.org/10.1002/fee.2029))._
 
 ## Forecasting
