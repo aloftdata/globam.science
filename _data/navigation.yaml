@@ -9,6 +9,6 @@
 - name: Team
   link: /team/
   new_window: false
-- name: Output
-  link: /output/
-  new_window: false
+# - name: Output
+#   link: /output/
+#   new_window: false
