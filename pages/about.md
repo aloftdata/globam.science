@@ -30,7 +30,7 @@ installations, of the observed patterns in biomass flows of aerial migrants. We 
 relationships with external variables and variation in these relationships among seasons, regions, continents and taxa.
 
 ![biomass flows](/assets/img/biomass_flow_fig_cropped.png)
-_Average migration intensities across a) Europe over 3 weeks in autumn 2016 (from [Nilsson et al. 2018](https://doi.org/10.1111/ecog.04003)), and b) during spring across the US between 1995-2017 (from [Horton et al. 2019](https://doi.org/10.1002/fee.2029))._
+_Average intensities of bird migration, inferred from weather radar data, across a) Europe over 3 weeks in autumn 2016 (from [Nilsson et al. 2019](https://doi.org/10.1111/ecog.04003)), and b) during spring across the US between 1995-2017 (from [Horton et al. 2019](https://doi.org/10.1002/fee.2029))._
 
 ## Forecasting
 We will predict the potential consequences of future environmental change for migratory populations at different scales and levels of 
