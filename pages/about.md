@@ -18,9 +18,6 @@ from approx. 70 weather radar stations in Europe and combine it with the existin
 information on aerial migrations available as open data, supporting researchers in accessing, processing and analysing weather radar 
 data and vertical profiles of aerial migrants.
 
-
-![image](assets/img/biomass_flow_fig_cropped.png)
-
 ## Understanding
 We will quantify the biomass flows of aerial migrants both in Europe and the US at a variety of scales: across regions and continents, 
 between seasons and years, and also across taxa. We will test different spatial analytical approaches to fill data gaps among radars, 
@@ -31,6 +28,8 @@ aerial migrants occur, what are the long-term changes in the abundance of aerial
 changing? Next, we will identify the abiotic and biotic drivers, such as weather, habitat, artificial light and wind energy 
 installations, of the observed patterns in biomass flows of aerial migrants. We aim to identify overarching similarities in functional 
 relationships with external variables and variation in these relationships among seasons, regions, continents and taxa.
+
+![](assets/img/biomass_flow_fig_cropped.png)
 
 ## Forecasting
 We will predict the potential consequences of future environmental change for migratory populations at different scales and levels of 
