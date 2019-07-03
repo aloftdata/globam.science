@@ -26,7 +26,7 @@ github_username: enram
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish
 logo: assets/img/nav_logo.png
-posts_on_home: 0 # Don't show news on the homepage yet
+posts_on_home: 0 # Don't show news on the homepage (yet)
 jekyll-archives:
   enabled:
     - categories
