@@ -30,9 +30,6 @@ posts_on_home: 0 # Don't show news on the homepage yet
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
-  permalinks:
-    category: "/category/:name/"
 
 # BUILD SETTINGS
 markdown: kramdown
