@@ -27,6 +27,8 @@ theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish
 logo: assets/img/nav_logo.png
 posts_on_home: 0 # Don't show news on the homepage (yet)
+tweets_on_home: true
+tweet_link_color: "#93c243"
 
 # BUILD SETTINGS
 markdown: kramdown
