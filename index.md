@@ -2,7 +2,7 @@
 layout: home
 title: GloBAM
 description: Monitoring, understanding and forecasting global biomass flows of aerial migrants
-background: "/assets/img/kelvin-yan-1333097-unsplash.jpg"
+background: "/assets/img/bloom.jpg"
 ---
 
 **GloBAM** is a new research project funded by [BioDivERsa](http://www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, 
