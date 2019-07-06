@@ -5,7 +5,7 @@ description: Monitoring, understanding and forecasting global biomass flows of a
 background: "/assets/img/kelvin-yan-1333097-unsplash.jpg"
 ---
 
-**GloBAM** is a new research project funded by [BioDivERsa](www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, 
+**GloBAM** is a new research project funded by [BioDivERsa](http://www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, 
 the Netherlands, the UK and the USA. The project has emerged from the [European Network for the Radar surveillance of Animal Movement](http://www.enram.eu), a multi-disciplinary network of international scientists who have taken up a world leading position in the use of 
 radar in animal movement studies. 
 
