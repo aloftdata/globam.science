@@ -28,6 +28,7 @@ remote_theme: peterdesmet/petridish
 logo: assets/img/nav_logo.png
 posts_on_home: 0 # Don't show news on the homepage (yet)
 tweets_on_home: true
+archive_permalink: /news/
 colors:
   links: "#93c243"
   banner: "#93c243"
