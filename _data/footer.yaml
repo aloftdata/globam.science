@@ -3,8 +3,7 @@
 
 # Columns
 columns:
-  - title: Project partners
-    description: 
+  - description: Project partners
     links:
     - name: Swiss Ornithological Institute
       link: https://www.vogelwarte.com
@@ -25,8 +24,7 @@ columns:
       link: https://ibed.uva.nl/
       new_window: true
 
-  - title: Funding
-    description: This project is funded by BiodivScen.
+  - description: This project is funded by BiodivScen.
 
 # License
 license: >
