@@ -28,8 +28,8 @@ tweets_on_home: true
 archive_permalink: /news/
 colors:
   links: "#93c243"
-  banner: "#93c243"
-  footer: "#513266"
+  banner: "#513266"
+  footer: "#93c243"
 
 # BUILD SETTINGS
 markdown: kramdown
