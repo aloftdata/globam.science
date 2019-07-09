@@ -3,7 +3,7 @@
 
 # Columns
 columns:
-  - description: Project partners
+  - description: "Project partners:"
     links:
     - name: Swiss Ornithological Institute
       link: https://www.vogelwarte.com
