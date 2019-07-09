@@ -10,15 +10,12 @@
 
 # SITE SETTINGS
 title: GloBAM
-description: >
-  Towards monitoring, understanding and forecasting global biomass flows 
-  of aerial migrants.
-email: globam@vogelwarte.ch
+description: Monitoring, understanding and forecasting global biomass flows of aerial migrants
 author: GloBAM partners
-url: "https://globam.science" # the base hostname & protocol for your site, e.g. http://example.com
-# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://globam.science"
 
 # SOCIAL PROFILES
+email: globam@vogelwarte.ch
 twitter_username: globam_net
 github_username: enram
 
