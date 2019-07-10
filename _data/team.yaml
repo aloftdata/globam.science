@@ -12,6 +12,21 @@
   github: peterdesmet
   twitter: peterdesmet
   
+- name: Adriaan Dokter
+  role: Associated researcher
+  image: assets/img/adriaan_dokter_amd427.jpg
+  description: >
+    Adriaan is an ecologist with a background in physics, with a keen interest in animal migration and 
+    foraging ecology. He is a Research Associate in the Information Science Program at the [Cornell 
+    Lab of Ornithology](https://www.birds.cornell.edu/), where his research bridges the disciplines of 
+    ornithology, ecology, physics and computer science. Adriaan’s recent work focuses on quantifying 
+    the biomass flows of birds across large continental areas; he will continue this focus during 
+    GloBAM.
+  orcid: 0000-0001-6573-066X
+  email: amd427@cornell.edu
+  github: adokter
+  twitter: AdriaanDokter  
+  
 - name: Andrew Farnsworth
   role: Leader - Quantifying biomass flows
   image: assets/img/farnsworth_photo.jpg
