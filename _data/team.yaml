@@ -24,6 +24,20 @@
   orcid: 0000-0002-9854-4449
   email: Af27@cornell.edu
 
+- name: Tom Mason
+  role: Post-doctoral researcher
+  image: assets/img/mason_photo.jpg
+  description: >
+    Tom is a conservation ecologist interested in how wild animal populations respond to changes in
+    their environment. He works as a post-doctoral researcher within the Bird Migration Department
+    of the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Tom’s primary research
+    focus within GloBAM is to develop spatial models of bird migration exploring how migratory journeys
+    will be affected by global environmental change. 
+  orcid: 0000-0003-0834-0571
+  email: tom.h.e.mason@gmail.com
+  github: tommason
+  twitter: _the_mason
+
 - name: Cecilia Nilsson
   role: Associated researcher
   image: assets/img/nilsson_photo.jpg
