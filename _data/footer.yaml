@@ -6,7 +6,7 @@ columns:
   - description: "Project partners:"
     links:
     - text: Swiss Ornithological Institute
-      href: https://www.vogelwarte.com
+      href: https://www.vogelwarte.ch/en/home/
       new_window: true
     - text: Centre for Ecology and Conservation, University of Exeter
       href: https://biosciences.exeter.ac.uk/cec/
