@@ -24,7 +24,12 @@ columns:
       href: https://ibed.uva.nl/
       new_window: true
 
-  - description: This project is funded by BiodivScen.
+  - description: This project is funded through the [2017-2018 Belmont Forum and BiodivERsA joint 
+      call](https://www.biodiversa.org/1400) for research proposals, under the BiodivScen ERA-Net 
+      COFUND programme, and with the funding organisations Swiss National Science Foundation 
+      (`SNF 31BD30_184120`), Belgian Federal Science Policy Office (`BelSPO BR/185/A1/GloBAM-BE`), 
+      Netherlands Organisation for Scientific Research (`NWO E10008`), Academy of Finland 
+      (`aka 326315`) and National Science Foundation (`NSF 1927743`).
 
 # License
 license: >
