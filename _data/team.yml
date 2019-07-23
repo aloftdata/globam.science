@@ -12,6 +12,21 @@
   github: peterdesmet
   twitter: peterdesmet
   
+- name: Adriaan Dokter
+  role: Associated researcher
+  image: assets/img/adriaan_dokter_amd427.jpg
+  description: >
+    Adriaan is an ecologist with a background in physics, with a keen interest in animal migration and 
+    foraging ecology. He is a Research Associate in the Information Science Program at the [Cornell 
+    Lab of Ornithology](https://www.birds.cornell.edu/), where his research bridges the disciplines of 
+    ornithology, ecology, physics and computer science. Adriaan’s recent work focuses on quantifying 
+    the biomass flows of birds across large continental areas; he will continue this focus during 
+    GloBAM.
+  orcid: 0000-0001-6573-066X
+  email: amd427@cornell.edu
+  github: adokter
+  twitter: AdriaanDokter  
+  
 - name: Andrew Farnsworth
   role: Leader - Quantifying biomass flows
   image: assets/img/farnsworth_photo.jpg
@@ -23,6 +38,20 @@
     quantify and characterize the biomass flows of aerial migrants.
   orcid: 0000-0002-9854-4449
   email: Af27@cornell.edu
+
+- name: Tom Mason
+  role: Post-doctoral researcher
+  image: assets/img/mason_image.jpg
+  description: >
+    Tom is a conservation ecologist interested in how wild animal populations respond to changes in
+    their environment. He works as a post-doctoral researcher within the Bird Migration Department
+    of the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Tom’s primary research
+    focus within GloBAM is to develop spatial models of bird migration exploring how migratory journeys
+    will be affected by global environmental change. 
+  orcid: 0000-0003-0834-0571
+  email: tom.h.e.mason@gmail.com
+  github: tommason
+  twitter: _the_mason
 
 - name: Cecilia Nilsson
   role: Associated researcher
