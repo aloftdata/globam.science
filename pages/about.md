@@ -7,7 +7,7 @@ Our fundamental objectives are to **monitor** the aerial migrations of animals (
 **understand** global patterns in the intensity, routes and timing of aerial migrations, and to **forecast** how these migrations are 
 likely to respond to global change:
 
-## Monitoring
+## Monitor
 We will tap into the potential of continental weather radar networks to monitor aerial migrations. We will use algorithms for retrieving 
 and classifying biological targets in radar signals, which have already been designed, calibrated and validated on a small subset of 
 radars. We will also develop new methods for refining the spatial information currently extracted from radar signals, such as 
@@ -18,7 +18,10 @@ from approx. 70 weather radar stations in Europe and combine it with the existin
 information on aerial migrations available as open data, supporting researchers in accessing, processing and analysing weather radar 
 data and vertical profiles of aerial migrants.
 
-## Understanding
+![species](/assets/img/species_compressed.jpg)
+_We aim to use weather radars to monitor the migrations of aerial migrants such as a) birds (Barth Bailey/Unsplash.com) and b) insects (aaabbbccc/Shutterstock.com)._
+
+## Understand
 We will quantify the biomass flows of aerial migrants both in Europe and the US at a variety of scales: across regions and continents, 
 between seasons and years, and also across taxa. We will test different spatial analytical approaches to fill data gaps among radars, 
 enabling us to more easily visualize and better identify spatio-temporal patterns of migration. Ultimately, we will produce maps 
@@ -32,7 +35,7 @@ relationships with external variables and variation in these relationships among
 ![biomass flows](/assets/img/biomass_flow_fig_cropped.png)
 _Average intensities of bird migration, inferred from weather radar data, across a) Europe over 3 weeks in autumn 2016 (from [Nilsson et al. 2019](https://doi.org/10.1111/ecog.04003)), and b) during spring across the US between 1995-2017 (from [Horton et al. 2019](https://doi.org/10.1002/fee.2029))._
 
-## Forecasting
+## Forecast
 We will predict the potential consequences of future environmental change for migratory populations at different scales and levels of 
 complexity. Developing future scenarios for the main biotic and abiotic drivers of biomass flows, we will investigate the consequences 
 of changes in these variables for movements and abundance of migratory populations using simulation behavioural-based models that 
@@ -43,3 +46,8 @@ allow us to identify core locations and sensitive times during the annual cycle 
 Ultimately, these different models will provide complementary insights into the degree to which migration flows are expected to shift in 
 time and space under environmental change and therefore, at which locations and at which times the loss or novel occurrence of migrants 
 might alter interactions within communities and ecosystems. 
+
+![simulation](/assets/img/Cuckoo_mean_sim_website.gif)
+
+_Simulated spring migrations of Afro-Palearctic migratory birds, from preliminary behaviour-based models developed within GloBAM._
+
