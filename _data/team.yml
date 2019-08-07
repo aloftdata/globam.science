@@ -1,5 +1,18 @@
 # Project team members listed below will appear on the /team page
 
+- name: Jason Chapman
+  role: Associated researcher
+  image: assets/img/chapman_photo_cropped.jpg
+  description: >
+    Jason is a movement ecologist interested in the evolution of animal migration strategies, and the 
+    population and community-level effects of these long-range movements. He uses novel 
+    technologies including biological radars to characterize the migration ecology of insects and 
+    birds. Jason is an associate professor at the [University of Exeter](http://www.exeter.ac.uk). Within 
+    GloBAM, he will play a leading role in understanding insect migrations using radar data. 
+  orcid: 0000-0002-7475-4441
+  email: j.chapman2@exeter.ac.uk
+  twitter: j_chapman2
+
 - name: Peter Desmet
   role: Leader - Data management
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
