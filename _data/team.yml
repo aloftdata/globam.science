@@ -4,8 +4,7 @@
   role: Associated researcher
   image: assets/img/chapman_photo_cropped.jpg
   description: >
-    Jason is a movement ecologist interested in the evolution of animal migration strategies, and the 
-    population and community-level effects of these long-range movements. He uses novel 
+    Jason is a movement ecologist interested in the evolution of animal migration strategies. He uses novel 
     technologies including biological radars to characterize the migration ecology of insects and 
     birds. Jason is an associate professor at the [University of Exeter](http://www.exeter.ac.uk). Within 
     GloBAM, he will play a leading role in understanding insect migrations using radar data. 
@@ -31,8 +30,7 @@
   description: >
     Adriaan is an ecologist with a background in physics, with a keen interest in animal migration and 
     foraging ecology. He is a Research Associate in the Information Science Program at the [Cornell 
-    Lab of Ornithology](https://www.birds.cornell.edu/), where his research bridges the disciplines of 
-    ornithology, ecology, physics and computer science. Adriaan’s recent work focuses on quantifying 
+    Lab of Ornithology](https://www.birds.cornell.edu/). Adriaan’s recent work focuses on quantifying 
     the biomass flows of birds across large continental areas; he will continue this focus during 
     GloBAM.
   orcid: 0000-0001-6573-066X
@@ -45,10 +43,10 @@
   image: assets/img/farnsworth_photo.jpg
   description: >
     Andrew is fascinated by bird migration and uses rapidly expanding technologies for studying bird
-    movements, including weather surveillance radar, acoustic monitoring, video monitoring and
-    citizen science. He is a Research Associate in the Information Science Program at the 
-    [Cornell Lab of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading efforts to
-    quantify and characterize the biomass flows of aerial migrants.
+    movements, including weather surveillance radar and citizen science. He is a Research Associate 
+    in the Information Science Program at the 
+    [Cornell Lab of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading 
+    efforts to quantify and characterize the biomass flows of aerial migrants.
   orcid: 0000-0002-9854-4449
   email: Af27@cornell.edu
 
@@ -57,11 +55,10 @@
   image: assets/img/haest_photo.jpg
   description: >
     Birgen is a computational ecologist interested in solving complex ecological issues by using novel 
-    data analysis techniques and acquisition technologies. He has expertise in bird migration, climate 
-    change, phenology, remote sensing and statistical inference. Birgen will shortly be starting a post-
+    data analysis techniques and acquisition technologies. Birgen will shortly be starting a post-
     doctoral position within the Bird Migration Department of the 
-    [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/), where he will focus on
-    quantifying and understanding insect migration using radar data. 
+    [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Within GloBAM, he will focus 
+    on quantifying and understanding insect migration using radar data. 
   orcid: 0000-0002-8739-6460  
   twitter: Birgen_Haest
 
@@ -71,8 +68,8 @@
   description: >
     Tom is a conservation ecologist interested in how wild animal populations respond to changes in
     their environment. He works as a post-doctoral researcher within the Bird Migration Department
-    of the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Tom’s primary research
-    focus within GloBAM is to develop spatial models of bird migration exploring how migratory journeys
+    of the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Within GloBAM, Tom
+    will focus on developing spatial models of bird migration to explore how migratory journeys
     will be affected by global environmental change. 
   orcid: 0000-0003-0834-0571
   email: tom.h.e.mason@gmail.com
