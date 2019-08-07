@@ -52,6 +52,19 @@
   orcid: 0000-0002-9854-4449
   email: Af27@cornell.edu
 
+- name: Birgen Haest
+  role: Post-doctoral researcher
+  image: assets/img/haest_photo.jpg
+  description: >
+    Birgen is a computational ecologist interested in solving complex ecological issues by using novel 
+    data analysis techniques and acquisition technologies. He has expertise in bird migration, climate 
+    change, phenology, remote sensing and statistical inference. Birgen will shortly be starting a post-
+    doctoral position within the Bird Migration Department of the 
+    [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/), where he will focus on
+    quantifying and understanding insect migration using radar data. 
+  orcid: 0000-0002-8739-6460  
+  twitter: Birgen_Haest
+
 - name: Tom Mason
   role: Post-doctoral researcher
   image: assets/img/mason_image.jpg
@@ -78,6 +91,20 @@
   orcid: 0000-0001-8957-4411
   github: CeciliaNilsson709
   twitter: cnilsson709
+
+- name: Raphaël Nussbaumer
+  role: Post-doctoral researcher
+  image: assets/img/nussbaumer_photo.jpg
+  description: >
+    Raphaël is fascinated by the ability of birds to navigate and time their migratory journeys. He uses 
+    geostatistical methods to study spatio-temporal patterns of bird migration. He is a post-doctoral 
+    researcher at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). As part 
+    of GloBAM, Raphaël is focusing on modelling and quantifying nocturnal bird migration using 
+    weather radar data.
+  orcid: 0000-0002-8185-1020
+  email: raphael.nussbaumer@vogelwarte.ch
+  github: rafnuss
+  twitter: rafnuss
 
 - name: Baptiste Schmid
   role: Associated researcher
