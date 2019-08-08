@@ -62,6 +62,15 @@
   orcid: 0000-0002-8739-6460  
   twitter: Birgen_Haest
 
+- name: Felix Liechti
+  role: Associated researcher
+  image: assets/img/Bild1.png
+  description: >
+    Felix is an ecologist with broad interests, but a particular focus on bird migration. He has been fascinated for more than 30 years in using modern technology like radar and miniaturized data-loggers to investigate animal movements that are otherwise invisible. Felix leads the Bird Migration Department at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). Within GloBAM, he plays the role of a senior adviser, co-supervising a variety of topics.
+  orcid: 0000-0001-9473-0837
+  email: felix.liechti@vogelwarte.ch
+  twitter: FelixLiechti
+
 - name: Tom Mason
   role: Post-doctoral researcher
   image: assets/img/mason_image.jpg
@@ -115,6 +124,15 @@
   orcid: 0000-0002-7736-7527
   github: baptischmi
   twitter: baptischmi
+
+- name: Judy Shamoun-Baranes
+  role: Leader - Scenarios of Biodiversity Drivers
+  image: assets/img/base_schier_cropped.jpg
+  description: >
+    Judy is an ecologist fascinated by animal movement and especially avian flight. Her research aims at understanding how intrinsic and external factors influence animal movement and the short and long term consequences of movement strategies. Judy is an associate professor at the [Institute for Biodiversity and Ecosystem Dynamics]( https://ibed.uva.nl/ ) at the University of Amsterdam. Within GloBAM Judy is leading efforts to develop scenarios of biodiversity drivers.
+  orcid: 0000-0002-1652-7646
+  email: shamoun@uva.nl
+  twitter: BaranesJudy
 
 - name: Nadja Weisshaupt
   role: Post-doctoral researcher
