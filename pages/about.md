@@ -11,7 +11,7 @@ We will tap into the potential of continental weather radar networks to monitor 
 
 ![species](/assets/img/species_compressed.jpg)
 
-_We aim to use weather radars to monitor the migrations of aerial migrants such as a) birds (Barth Bailey/Unsplash.com) and b) insects (aaabbbccc/Shutterstock.com)._
+_We aim to use weather radars to monitor the movements of aerial migrants such as a) birds (image by Barth Bailey/Unsplash.com) and b) insects (image by aaabbbccc/Shutterstock.com)._
 
 ## Understand
 
