@@ -22,7 +22,7 @@ github_username: enram
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish
-posts_on_home: 0 # Don't show news on the homepage (yet)
+posts_on_home: 3 # Don't show news on the homepage (yet)
 tweets_on_home: true
 archive_permalink: /news/
 logo: /assets/img/nav_logo.png
