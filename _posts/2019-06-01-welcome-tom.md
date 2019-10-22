@@ -1,5 +1,5 @@
 ---
-title: Tom Mason has joined our team!
+title: Tom Mason joins our team
 description: 
 background: 
 author: Silke Bauer

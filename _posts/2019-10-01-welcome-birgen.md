@@ -1,5 +1,5 @@
 ---
-title: Birgen Haest has joined our team!
+title: Birgen Haest joins our team
 description: 
 background: 
 author: Silke Bauer
