@@ -1,7 +1,7 @@
 ---
 title: Tom Mason joins our team
 description: 
-background: 
+background: /assets/img/2019-06-01-welcome-tom.jpg
 author: Silke Bauer
 categories: [team]
 ---
