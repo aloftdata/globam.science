@@ -6,7 +6,7 @@ author: Silke Bauer
 categories: [team]
 ---
 
-We like to welcome Tom Mason, who has joined our [GloBAM team](/team/) as post-doctoral researcher.
+We would like to welcome Tom Mason, who has joined our [GloBAM team](/team/) as post-doctoral researcher.
 
 Tom will be working in the Bird Migration Department of the Swiss Ornithological Institute, where he will focus on forecasting how future environment change will influence the behaviour and demography of aerial migrants.
 
