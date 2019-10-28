@@ -1,7 +1,7 @@
 ---
 title: Birgen Haest joins our team
 description: 
-background: 
+background: /assets/backgrounds/2019-10-01-welcome-birgen.jpg
 author: Silke Bauer
 categories: [team]
 ---

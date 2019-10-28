@@ -1,7 +1,7 @@
 ---
 title: BioDivERsa kick-off meeting and stakeholder workshop
 description: 14-16 May 2019 - Helsinki, Finland
-background: /assets/img/2019-05-20-biodiversa-kick-off.jpg
+background: /assets/backgrounds/2019-05-20-biodiversa-kick-off.jpg
 author: [Silke Bauer, Peter Desmet]
 categories: [meetings]
 ---

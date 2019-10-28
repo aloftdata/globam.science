@@ -2,7 +2,7 @@
 layout: home
 title: GloBAM
 description: Monitoring, understanding and forecasting global biomass flows of aerial migrants
-background: /assets/img/bloom.jpg
+background: /assets/backgrounds/home.jpg
 permalink: /
 ---
 
