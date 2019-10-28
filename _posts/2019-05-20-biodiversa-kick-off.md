@@ -1,6 +1,6 @@
 ---
 title: BioDivERsa kick-off meeting and stakeholder workshop
-description: Our thoughts on the BioDivERsa kick-off meeting that took place in Helsinki, Finland on 14-16 May 2019.
+description: A summary of the BioDivERsa kick-off meeting in Helsinki, Finland on 14-16 May 2019.
 background: /assets/backgrounds/2019-05-20-biodiversa-kick-off.jpg
 author: [Silke Bauer, Peter Desmet]
 categories: [meetings]
