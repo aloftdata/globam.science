@@ -13,4 +13,3 @@ Birgen is a computational ecologist interested in solving complex ecological iss
 Four years ago, Birgen decided to shift his focus from the remote sensing - vegetation biodiversity monitoring field to animal ecology research. In September 2015, he started a PhD on the influence of climate change on bird migration phenology at the Institute of Avian Research “Vogelwarte Helgoland” in Wilhelmshaven, Germany. He will defend his PhD thesis early October. You can find his publications [here](https://scholar.google.com/citations?user=XFmZMR0AAAAJ).
 
 At the Swiss Ornithological Institute, Birgen will work as a PostDoc within GloBAM project and the Bird Migration Department. His main focus will be on quantifying and understanding insect migration using radar data.
-
