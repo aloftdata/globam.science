@@ -1,7 +1,7 @@
 ---
 title: Tom Mason joins our team
 description: 
-background: /assets/img/2019-06-01-welcome-tom.jpg
+background: /assets/backgrounds/2019-06-01-welcome-tom.jpg
 author: Silke Bauer
 categories: [team]
 ---
@@ -15,4 +15,3 @@ Tom is a conservation ecologist interested in how wild animal populations respon
 Over the past few years Tom’s work has focused increasingly on the ecology and conservation of bird populations. He hopes to make use of this experience within GloBAM, where he will initially be developing behaviour-based simulation models of bird migration.
 
 More information on Tom’s research can be found on his [personal website](https://tommason.weebly.com/) and [Google Scholar page](https://scholar.google.co.uk/citations?user=gjcjiR4AAAAJ&hl=en).
-
