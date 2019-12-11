@@ -1,5 +1,54 @@
 # Project team members listed below will appear on the /team page
 
+- name: Peter Desmet
+  role: Leader - Data infrastructure (WP1)
+  image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
+  description: >
+    Peter is passionate about open data and open science. He works as open data coordinator for the 
+    [Open science lab for biodiversity](https://oscibio.inbo.be/) at the 
+    [Research Institute for Nature and Forest (INBO)](http://www.inbo.be). He is responsible for the 
+    data infrastructure and data management of GloBAM.
+  orcid: 0000-0002-8442-8025
+  github: peterdesmet
+  twitter: peterdesmet
+
+- name: Jarmo Koistinen
+  role: Leader - Retrieving biological information from weather radar data (WP2)
+  image: assets/images/team-jarmo-koistinen.jpg
+  description: >
+    Jarmo has had a passion for ornithology since childhood. He is particularly interested in the 
+    impacts of weather on bird migration. He is a senior research scientist in the 
+    [Radar Science research group](https://en.ilmatieteenlaitos.fi/radar-and-space-technology) of 
+    the [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/). Within GloBAM his main 
+    efforts are focused on validating bird migration with polarimetric weather radar data and on the 
+    forcing rules of weather in migration models. 
+  orcid: 0000-0003-3667-2071
+
+- name: Andrew Farnsworth
+  role: Leader - Biomass flows of aerial migrants (WP3)
+  image: assets/images/team-andrew-farnsworth.jpg
+  description: >
+    Andrew is fascinated by bird migration and uses rapidly expanding technologies for studying bird
+    movements, including weather surveillance radar and citizen science. He is a Research Associate 
+    in the Information Science Program at the 
+    [Cornell Lab of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading 
+    efforts to quantify and characterize the biomass flows of aerial migrants.
+  orcid: 0000-0002-9854-4449
+  email: Af27@cornell.edu
+
+- name: Judy Shamoun-Baranes
+  role: Leader - Scenarios of biodiversity drivers (WP4)
+  image: assets/images/team-judy-shamoun-baranes.jpg
+  description: >
+    Judy is an ecologist fascinated by animal movement and especially avian flight. Her research 
+    aims at understanding how intrinsic and external factors influence animal movement and the short 
+    and long term consequences of movement strategies. Judy is an associate professor at the 
+    [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of 
+    Amsterdam. Within GloBAM Judy is leading efforts to develop scenarios of biodiversity drivers.
+  orcid: 0000-0002-1652-7646
+  email: shamoun@uva.nl
+  twitter: BaranesJudy
+
 - name: Jason Chapman
   role: Associated researcher
   image: assets/images/team-jason-chapman.jpg
@@ -13,18 +62,6 @@
   email: j.chapman2@exeter.ac.uk
   twitter: j_chapman2
 
-- name: Peter Desmet
-  role: Leader - Data management
-  image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
-  description: >
-    Peter is passionate about open data and open science. He works as open data coordinator for the 
-    [Open science lab for biodiversity](https://oscibio.inbo.be/) at the 
-    [Research Institute for Nature and Forest (INBO)](http://www.inbo.be). He is responsible for the 
-    data infrastructure and data management of GloBAM.
-  orcid: 0000-0002-8442-8025
-  github: peterdesmet
-  twitter: peterdesmet
-  
 - name: Adriaan Dokter
   role: Associated researcher
   image: assets/images/team-adriaan-dokter.jpg
@@ -39,18 +76,6 @@
   github: adokter
   twitter: AdriaanDokter  
   
-- name: Andrew Farnsworth
-  role: Leader - Quantifying biomass flows
-  image: assets/images/team-andrew-farnsworth.jpg
-  description: >
-    Andrew is fascinated by bird migration and uses rapidly expanding technologies for studying bird
-    movements, including weather surveillance radar and citizen science. He is a Research Associate 
-    in the Information Science Program at the 
-    [Cornell Lab of Ornithology](https://www.birds.cornell.edu/). Within GloBAM, Andrew is leading 
-    efforts to quantify and characterize the biomass flows of aerial migrants.
-  orcid: 0000-0002-9854-4449
-  email: Af27@cornell.edu
-
 - name: Birgen Haest
   role: Post-doctoral researcher
   image: assets/images/team-birgen-haest.jpg
@@ -62,18 +87,6 @@
     focus on quantifying and understanding insect migration using radar data. 
   orcid: 0000-0002-8739-6460  
   twitter: Birgen_Haest
-
-- name: Jarmo Koistinen
-  role: Leader - Retrieving biological information from radar data
-  image: assets/images/team-jarmo-koistinen.jpg
-  description: >
-    Jarmo has had a passion for ornithology since childhood. He is particularly interested in the 
-    impacts of weather on bird migration. He is a senior research scientist in the 
-    [Radar Science research group](https://en.ilmatieteenlaitos.fi/radar-and-space-technology) of 
-    the [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/). Within GloBAM his main 
-    efforts are focused on validating bird migration with polarimetric weather radar data and on the 
-    forcing rules of weather in migration models. 
-  orcid: 0000-0003-3667-2071 
 
 - name: Felix Liechti
   role: Associated researcher
@@ -142,19 +155,6 @@
   orcid: 0000-0002-7736-7527
   github: baptischmi
   twitter: baptischmi
-
-- name: Judy Shamoun-Baranes
-  role: Leader - Scenarios of Biodiversity Drivers
-  image: assets/images/team-judy-shamoun-baranes.jpg
-  description: >
-    Judy is an ecologist fascinated by animal movement and especially avian flight. Her research 
-    aims at understanding how intrinsic and external factors influence animal movement and the short 
-    and long term consequences of movement strategies. Judy is an associate professor at the 
-    [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of 
-    Amsterdam. Within GloBAM Judy is leading efforts to develop scenarios of biodiversity drivers.
-  orcid: 0000-0002-1652-7646
-  email: shamoun@uva.nl
-  twitter: BaranesJudy
 
 - name: Nadja Weisshaupt
   role: Post-doctoral researcher
