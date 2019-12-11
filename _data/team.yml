@@ -1,5 +1,20 @@
 # Project team members listed below will appear on the /team page
 
+- name: Silke Bauer
+  role: Project coordinator / Leader - Synthesis (WP5)
+  image: assets/images/team-silke-bauer.jpg
+  description: >
+    Animal migrations, especially their large scale patterns and timing are Silke’s core research 
+    interest. Although much of her research has been devoted to migrants and migrations themselves, 
+    it increasingly also recognizes that migrants can have a multitude of effects and interact with 
+    the resident communities visited during their journeys. Silke is a senior researcher at the 
+    [Swiss Ornithological institute](https://www.vogelwarte.ch/en/home/), GloBAM’s coordinator and 
+    lead of its synthesis-parts.
+  orcid: 0000-0002-0844-164X
+  email: silke.s.bauer@gmail.com
+  github: silkebauer
+  twitter: silke_bauer
+
 - name: Peter Desmet
   role: Leader - Data infrastructure (WP1)
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
