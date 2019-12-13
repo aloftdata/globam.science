@@ -50,4 +50,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: "/news/:slug/"
+      permalink: "/news/:year/:slug/"

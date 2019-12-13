@@ -1,5 +1,5 @@
 ---
-title: Amsterdam catch-up meeting
+title: Swiss-Dutch coordination meeting
 description: Summary of catch-up meeting between Swiss and Dutch GloBAM team members on 6-8 November 2019.  
 background: /assets/backgrounds/2019-11-07-uva-birdscan-radar.jpg
 author: Tom Mason
