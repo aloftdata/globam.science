@@ -6,7 +6,17 @@
   href: /about/
 - text: Team
   href: /team/
+- text: Output
+  menu:
+  - text: Publications
+    href: /publications/
+  - text: Meetings
+    href: /meetings/
+  - text: Outreach
+    href: /outreach/
+#  - text: Datasets
+#    href: /datasets/
+  - text: Software
+    href: /software/
 - text: News
   href: /news/
-# - text: Output
-#   href: /output/
