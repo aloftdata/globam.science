@@ -1,7 +1,7 @@
 ---
 title: Outreach
 description: We presented GloBAM at the following events
-background: https://images.unsplash.com/photo-1472691681358-fdf00a4bfcfe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000
+background: /assets/backgrounds/outreach.jpg
 permalink: /outreach/
 ---
 
