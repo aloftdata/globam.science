@@ -13,10 +13,11 @@ permalink: /outreach/
 
 San Francisco, United States, 9-13 December 2019 - [Website](https://www.agu.org/fall-meeting)
 
-- **Farnsworth A**, Lostanlen V, Salamon J, Horton KG, Van Doren B, **Dokter AM**, **Nilsson C**, Kelling S, Bello JP (2019) Automating Acoustic Monitoring of Nocturnally Migrating Birds: BirdVox and the Integration of Citizen Science and Radar Data to Enhance Evolving Paradigms. AGU Fall Meeting 2019 (AGU 100), San Francisco, US, 9-13 December 2019. Invited talk.
+- **Farnsworth A**, Lostanlen V, Salamon J, Horton KG, Van Doren B, **Dokter AM**, **Nilsson C**, Kelling S, Bello JP (2019) Automating Acoustic Monitoring of Nocturnally Migrating Birds: BirdVox and the Integration of Citizen Science and Radar Data to Enhance Evolving Paradigms. AGU Fall Meeting 2019 (AGU 100), San Francisco, United States, 9-13 December 2019. Invited talk.
 
 #### Cloud Forum 2019
-- ** Dokter AM ** (2019) Analyzing long-term changes in nocturnal bird migration using the NEXRAD weather radar archive. Cornell University, Ithaca, NY, USA, 8 Nov 2019. Invited talk.
+
+- **Dokter AM** (2019) Analyzing long-term changes in nocturnal bird migration using the NEXRAD weather radar archive. Cornell University, Ithaca, NY, United States, 8 November 2019. Invited talk.
 
 #### 2nd International Radar Aeroecology Conference
 
@@ -44,8 +45,8 @@ Cluj-Napoca, Romania, 26-30 August 2019 - [Website](https://eounion.org/about/pr
 
 
 #### American Ornithological Society 2019 Annual Meeting
-- **Dokter AM**, Rosenberg KV, Blancher PJ, Sauer JR, Smith AC, Smith PA, Stanton JC, Panjabi A, Helft L, Parr M, Marra PM (2019) Decline and survival of North America’s migratory Avifauna determined by a weather radar network. Anchorage, Alaska, USA. 26 Jun 2019. Symposium talk.
 
+- **Dokter AM**, Rosenberg KV, Blancher PJ, Sauer JR, Smith AC, Smith PA, Stanton JC, Panjabi A, Helft L, Parr M, Marra PM (2019) Decline and survival of North America’s migratory Avifauna determined by a weather radar network. Anchorage, Alaska, United States. 26 June 2019. Symposium talk.
 
 #### BioDivERsa kick-off meeting and stakeholder workshop
 
