@@ -179,3 +179,14 @@
     ornithologist at the [Finnish Meteorological Institute](https://ilmatieteenlaitos.fi/). In 
     GloBAM, her primary focus is the development of a bird migration model for the Finnish airspace.
   orcid: 0000-0003-4510-4121
+
+- name: Bart Kranstauber
+  role: Post-doctoral researcher
+  github: bart1
+  gitlab: bartk
+  image: assets/images/team-bart.jpg
+  description: >
+    Bart is interested in where and how animal move. His research uses computational tools to understand
+    what drives the movements and distribution of animals. Bart is an post-doctoral researcher at the 
+    [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of 
+    Amsterdam. Within GloBAM Bart is focusing on understanding environmental drivers of the aerial movements of birds especially during migration.
