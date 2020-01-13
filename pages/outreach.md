@@ -28,6 +28,7 @@ Zhengzhou, China, 21-24 September 2019 (as well as pre/post-conference workshops
 - **Dokter AM** (2019) Decline and population dynamics of North America's migratory avifauna. 2nd International Radar Aeroecology Conference, Zhengzhou, China, 21-24 September 2019. Invited talk.
 - **Dokter AM** (2019) Detecting population changes in birds and insects with radar: challenges and insights from the US. 2nd International Radar Aeroecology Conference, Nanjing, China, 20 September 2019. Invited talk at pre-conference workshop.
 - **Farnsworth A**, Horton KG, **Nilsson C**, Van Doren B, **Dokter AM**, Moscardi C, Dobler G (2019) "You've Got A New Light Shining In Your Eyes:" applications of weather surveillance radar to study behavioral ecology of nocturnally migrating birds in photo polluted skies. 2nd International Radar Aeroecology Conference, Zhengzhou, China, 21-24 September 2019. Invited talk.
+- Horton KG, La Sorte FA, Sheldon D, Lin T, Winner K, Bernstein G, Maji S, Hochachka W, **Farnsworth A** (2019) Phenology of nocturnal avian migration has shifted at the continental scale. 2nd International Radar Aeroecology Conference, Zhengzhou, China, 21-24 September 2019. Invited talk.
 - **Liechti F** (2019) New insights from monitoring local bird and insect
 movements year round by dedicated bird radar. 2nd International Radar Aeroecology Conference, Beijing, China, 21-24 September 2019. Invited talk at post-conference workshop.
 - **Liechti F** (2019) Small scale radar can provide deep insight into aerial
