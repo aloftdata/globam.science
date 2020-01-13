@@ -103,6 +103,18 @@
   orcid: 0000-0002-8739-6460  
   twitter: Birgen_Haest
 
+- name: Bart Kranstauber
+  role: Post-doctoral researcher
+  github: bart1
+  gitlab: bartk
+  image: assets/images/team-bart.jpg
+  description: >
+    Bart is interested in where and how animals move. His research uses computational tools to 
+    understand what drives the movements and distribution of animals. Bart is a post-doctoral 
+    researcher at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at 
+    the University of Amsterdam. Within GloBAM Bart is focusing on understanding environmental 
+    drivers of the aerial movements of birds especially during migration.
+
 - name: Felix Liechti
   role: Associated researcher
   image: assets/images/team-felix-liechti.png
