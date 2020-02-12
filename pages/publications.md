@@ -5,7 +5,7 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
-Horton KG, La Sorte FA, Sheldon D, Lin T, Winner K, Bernstein G, Maji S, Hochachka WM, **Farnsworth A** (2020) Phenology of nocturnal avian migration has shifted at the continental scale. _Nature Climate Change_ 10, 63–68 <https://doi.org/10.1038/s41558-019-0648-9>
+Horton KG, La Sorte FA, Sheldon D, Lin T-Y, Winner K, Bernstein G, Maji S, Hochachka WM, **Farnsworth A** (2020) Phenology of nocturnal avian migration has shifted at the continental scale. _Nature Climate Change_ 10, 63–68 <https://doi.org/10.1038/s41558-019-0648-9>
 
 Rosenberg KV, **Dokter AM**, Blancher PJ, Sauer JR, Smith AC, Smith PA, Stanton JC, Panjabi A, Helft L, Parr M, Marra PP (2019) Decline of the North American avifauna. _Science_ 366, 6461: 120-124. <https://doi.org/10.1126/science.aaw1313>
 
