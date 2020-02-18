@@ -5,6 +5,12 @@ background: /assets/backgrounds/outreach.jpg
 permalink: /outreach/
 ---
 
+#### World Biodiversity Forum 2020
+
+Davos, Switzerland, 23-28 February 2020 - [Website](https://www.worldbiodiversityforum.org/en)
+
+- **Bauer S** on behalf of entire GloBAM team (2020) Monitoring, understanding and forecasting global biomass flows of aerial migrants. Invited talk.
+
 #### Linnaeus University
 
 - **Nilsson C** (2019) Radar data reveals bird flight behavior on local to continental scales. Linnaeus University, Kalmar, Sweden, 5 November 2019. Invited seminar.
