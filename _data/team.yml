@@ -155,6 +155,19 @@
   github: CeciliaNilsson709
   twitter: cnilsson709
 
+- name: Nicolas Noé
+  role: Research software developer
+  image: https://avatars1.githubusercontent.com/u/386387?s=460&v=4
+  description: >
+    Nico is a software developer with experience in biodiversity informatics. He loves open source, 
+    creating random stuff, old maps, and weird fishes. He currently works for the 
+    [Open science lab for biodiversity](https://oscibio.inbo.be/) and will contribute to the data 
+    infrastructure of GloBAM.
+  orcid: 0000-0002-9503-4750
+  email: nicolas.noe@inbo.be
+  github: niconoe
+  twitter: niconoe
+
 - name: Raphaël Nussbaumer
   role: Post-doctoral researcher
   image: assets/images/team-raphael-nussbaumer.jpg
