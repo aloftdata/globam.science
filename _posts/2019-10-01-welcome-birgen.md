@@ -6,7 +6,7 @@ author: Silke Bauer
 categories: [team]
 ---
 
-We would like to welcome Birgen Haest, who has joined our [GloBAM team](/team/) as post-doctoral researcher.
+We would like to welcome Birgen Haest, who has joined our [GloBAM team]({% link pages/team.md %}) as post-doctoral researcher.
 
 Birgen is a computational ecologist interested in solving complex ecological issues by using novel data analysis techniques and acquisition technologies. In 2007, he obtained a degree in Landscape and Forest Management (Bioscience Engineering), with a specialty in Remote Sensing, at the University of Ghent in Belgium. He initially started his scientific career as a remote sensing – vegetation biodiversity ecologist, and was active in this field for about 7 years. During this time, he was involved in and responsible for several projects developing new methods for terrestrial biodiversity mapping, ecosystem functioning analysis, and vegetation burn characterization.
 
