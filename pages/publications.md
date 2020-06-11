@@ -4,6 +4,9 @@ description:
 background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000
 permalink: /publications/
 ---
+
+- **Weisshaupt N** & **Koistinen J** (2020) Muuton seuranta säätutkilla. _Linnut_ 1, 24-27. <https://www.birdlife.fi/sisalto/lehdet/linnut-12020>
+
 **Kranstauber B**, Bouten W, **Leijnse H**, Wijers B-C, Verlinden L, **Shamoun-Baranes J**, **Dokter AM** (2020) High-Resolution Spatial Distribution of Bird Movements Estimated from a Weather Radar Network. _Remote Sens._ 12, 635. <https://www.mdpi.com/2072-4292/12/4/635>
 
 Horton KG, La Sorte FA, Sheldon D, Lin T-Y, Winner K, Bernstein G, Maji S, Hochachka WM, **Farnsworth A** (2020) Phenology of nocturnal avian migration has shifted at the continental scale. _Nature Climate Change_ 10, 63–68. <https://doi.org/10.1038/s41558-019-0648-9>
