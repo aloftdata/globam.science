@@ -7,7 +7,7 @@ permalink: /outreach/
 
 ## 2020
 
-- **Weisshaupt N** (2020) Kaukokartoitus lintututkimuksessa (Remote sensing in ornithological research). Monthly meeting of Pohjois-Pohjanmaan lintutieteellinen yhdistys, PPLY (North Ostrobothnian ornithological society). _Invited talk._
+- **Weisshaupt N** (2020) Kaukokartoitus lintututkimuksessa (Remote sensing in ornithological research). Monthly meeting of Pohjois-Pohjanmaan lintutieteellinen yhdistys, PPLY (North Ostrobothnian ornithological society), Finland, 14 October 2020. _Invited talk._
 - **Bauer S** on behalf of entire GloBAM team (2020) Monitoring, understanding and forecasting global biomass flows of aerial migrants. [World Biodiversity Forum 2020]({% post_url 2020-02-27-wbf-davos %}), Davos, Switzerland, 23-28 February 2020. _Invited talk._
 
 ## 2019
