@@ -8,7 +8,7 @@ categories: [papers]
 
 Climate (change) has been repeatedly shown to strongly affect when birds migrate. For other animal taxa such as bats and insects, knowledge on the effects of climate (change) on their migration phenology remains rather limited. Perhaps the biggest obstacle is the lack of long-term phenology datasets. 
 
-Bracken Cave in Texas (USA) holds one of the largest bat colonies in the world. Using weather radar data, a unique 23-year (1995-2017) long time series was recently produced of the spring and autumn migration phenology of Brazilian free-tailed bats (*Tadarida brasiliensis*) at Bracken Cave ([Stepanian & Wainwright, 2018](https://doi.org/10.1111/gcb.14051).
+Bracken Cave in Texas (USA) holds one of the largest bat colonies in the world. Using weather radar data, a unique 23-year (1995-2017) long time series was recently produced of the spring and autumn migration phenology of Brazilian free-tailed bats (*Tadarida brasiliensis*) at Bracken Cave ([Stepanian & Wainwright, 2018](https://doi.org/10.1111/gcb.14051)).
 
 ![Left: Bracken Cave in Texas, USA (Source: Daniel Spiess, CC BY-SA 2.0, via Wikimedia Commons); Right: Tadarida brasiliensis (Source: NPS, Public domain, via Wikimedia Commons)](/assets/images/2020-11-05-paper-brackencave-phenology-caveandbats.jpg)
 _**Left**: Bracken Cave in Texas, USA (Source: [Daniel Spiess](https://commons.wikimedia.org/wiki/File:Bracken_Cave_Bats.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons); **Right**: Tadarida brasiliensis (Source: [NPS](https://commons.wikimedia.org/wiki/File:Tadarida_brasiliensis.jpg), Public domain, via Wikimedia Commons)_
