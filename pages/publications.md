@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+**Haest B**, Stepanian PM, Wainwright C, **Liechti F**, **Bauer S** (accepted - available online) Climatic drivers of (changes in) bat migration phenology at Bracken Cave (USA). _Global Change Biology_. <https://doi.org/10.1111/gcb.15433>
+
 **Bauer S**, McNamara JM, Barta Z (2020) Environmental variability, reliability of information and the timing of migration. _Proceedings of the Royal Society B_ 287. <https://doi.org/10.1098/rspb.2020.0622>
 
 **Kranstauber B**, Bouten W, **Leijnse H**, Wijers B-C, Verlinden L, **Shamoun-Baranes J**, **Dokter AM** (2020) High-Resolution Spatial Distribution of Bird Movements Estimated from a Weather Radar Network. _Remote Sens._ 12, 635. <https://www.mdpi.com/2072-4292/12/4/635>
