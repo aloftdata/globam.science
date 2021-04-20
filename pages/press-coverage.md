@@ -19,4 +19,22 @@ BNNVARA: [Radar telt vogels boven Artis](https://www.bnnvara.nl/vroegevogels/art
 
 Het Parool: [Deze vogelradar in Artis doet de inzet van vogelaars verbleken](https://www.parool.nl/amsterdam/deze-vogel-radar-in-artis-doet-de-inzet-van-vogelaars-verbleken~b682cbfe/). **Article** (in Dutch). 29 March 2021
 
+RTL: [Les radars météo permettent de suivre les migrations d'oiseaux](https://www.rtl.be/info/video/775413.aspx). **Video interview** (in French). 17 March 2021
+
+Daily Science: [La migration des oiseaux en mode 2.0](https://dailyscience.be/15/03/2021/la-migration-des-oiseaux-en-mode-2-0/). **Article** (in French). 15 March 2021
+
+RBINS: [Ten weather radars detect bird migration across the Benelux, and you can watch in real time!](https://www.naturalsciences.be/en/news/item/20722) **Press release**. 11 March 2021
+
+De Standaard: [Verwachting voor vannacht: een zwerm trekvogels](https://www.standaard.be/cnt/dmf20210309_9816235). **Article** (in Dutch). 10 March 2021
+
+Le Dernière Heure: [Les radars de l’IRM vont surveiller la migration des oiseaux](https://www.dhnet.be/actu/societe/les-radars-de-l-irm-vont-surveiller-la-migration-des-oiseaux-6047a82e7b50a605177d4942). **Article** (in French). 9 March 2021
+
+Knack Weekend: [KMI brengt data over vogeltrek in kaart voor grote publiek](https://weekend.knack.be/lifestyle/reizen/natuur/kmi-brengt-data-over-vogeltrek-in-kaart-voor-grote-publiek/article-normal-1709523.html). **Article** (in Dutch). 9 March 2021
+
+vrtnws.be: [Weerradars van het KMI maken nachtelijke vogeltrek zichtbaar](https://vrtnws.be/p.bDeyXxQ8m). **Article** (in Dutch). 9 March 2021
+
+HLN.be: [Volg nu zelf de vogeltrek over de Benelux](https://www.hln.be/wetenschap-en-planeet/volg-nu-zelf-de-vogeltrek-over-de-benelux~ac214ea7/). **Article** (in Dutch). 9 March 2021
+
+INBO: [Tien weerradars detecteren vogeltrek over de Benelux, en jij kan meekijken!](https://www.vlaanderen.be/inbo/persberichten/tien-weerradars-detecteren-vogeltrek-over-de-benelux-en-jij-kan-meekijken/) **Press release** (in Dutch). 9 March 2021
+
 Audubon magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450). **Article**. 23 March 2021
