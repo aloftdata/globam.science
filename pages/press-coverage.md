@@ -38,3 +38,5 @@ HLN.be: [Volg nu zelf de vogeltrek over de Benelux](https://www.hln.be/wetenscha
 INBO: [Tien weerradars detecteren vogeltrek over de Benelux, en jij kan meekijken!](https://www.vlaanderen.be/inbo/persberichten/tien-weerradars-detecteren-vogeltrek-over-de-benelux-en-jij-kan-meekijken/) **Press release** (in Dutch). 9 March 2021
 
 Audubon magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450). **Article**. 23 March 2021
+
+The Independent: [Climate crisis could be causing bats to migrate earlier, study says](https://www.independent.co.uk/climate-change/news/bat-migration-climate-change-us-b1722435.html). **Article**. 13 November 2020
