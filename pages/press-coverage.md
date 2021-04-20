@@ -39,4 +39,6 @@ INBO: [Tien weerradars detecteren vogeltrek over de Benelux, en jij kan meekijke
 
 Audubon magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450). **Article**. 23 March 2021
 
+## 2020
+
 The Independent: [Climate crisis could be causing bats to migrate earlier, study says](https://www.independent.co.uk/climate-change/news/bat-migration-climate-change-us-b1722435.html). **Article**. 13 November 2020
