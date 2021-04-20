@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+**Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A, Haest B, Koistinen J, Kranstauber B, Liechti F, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2021) Weather radars' role in biodiversity monitoring. _Science_ 372 (6539), 248. <https://doi.org/10.1126/science.abi4680>
+
 **Weisshaupt N**, Lehikoinen A, Mäkinen T & **Koistinen J** (2021) Challenges and benefits of using unstructured citizen science data to estimate seasonal timing of bird migration across large scales. PLOS ONE 16(2): e0246572. <https://doi.org/10.1371/journal.pone.0246572>
 
 **Weisshaupt N**, Lehtiniemi T, **Koistinen J** (2020) Combining citizen science and weather radar data to study large‐scale bird movements. _Ibis_. <https://doi.org/10.1111/ibi.12906>
