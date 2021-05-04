@@ -4,7 +4,33 @@ background: https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?ixlib=r
 permalink: /meetings/
 ---
 
-#### GloBAM infrastructure meeting
+## 2021
+
+<!--#### bioRad coding sprint
+
+Online, 7-11 June 2021-->
+
+#### Progress meeting
+
+Online, 7 April 2021
+
+## 2020
+
+#### General meeting
+
+Online, 28-30 October 2020
+
+#### Data quality assessment meeting
+
+Online, 20-21 April 2020
+
+#### bioRad coding sprint
+
+Online, 14-17 April 2020
+
+## 2019
+
+#### Data infrastructure meeting
 
 Amsterdam, Netherlands, 27 November 2019
 
@@ -12,6 +38,6 @@ Amsterdam, Netherlands, 27 November 2019
 
 Amsterdam, Netherlands, 6-8 November 2019 - [Meeting summary]({% post_url 2019-12-04-swiss-dutch-meeting %})
 
-#### GloBAM kick-off meeting
+#### Kick-off meeting
 
 Sempach, Switzerland, 8-10 April 2019
