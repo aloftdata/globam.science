@@ -6,6 +6,7 @@ permalink: /meetings/
 
 ## 2021
 
+- WP-leaders meeting. Online, 16 September 2021
 - Progress meeting. Online, 1 July 2021
 - bioRad coding sprint. Online, 7-11 June 2021
 - WP-leaders meeting. Online, 20 May 2021
