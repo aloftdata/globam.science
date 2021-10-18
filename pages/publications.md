@@ -9,7 +9,7 @@ permalink: /publications/
 
 **Nussbaumer R, Schmid B, Bauer S, Liechti F** (2021) A Gaussian Mixture Model to Separate Birds and Insects in Single-Polarization Weather Radar Data. _Remote Sensing_. 13(10): 1989. <https://doi.org/10.3390/rs13101989>
 
-**Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A, Haest B, Koistinen J, Kranstauber B, Liechti F, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2021) Weather radars' role in biodiversity monitoring. _Science_ 372 (6539), 248. <https://doi.org/10.1126/science.abi4680>
+**Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A, Haest B, Koistinen J, Kranstauber B, Liechti F, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2021) Weather radars' role in biodiversity monitoring. _Science_ 372 (6539), 248. <https://doi.org/10.1126/science.abi4680> ([postprint](https://purews.inbo.be/ws/portalfiles/portal/52375500/ShamounBaranes_etal_2021_Science_postprint.pdf))
 
 **Weisshaupt N**, Lehikoinen A, Mäkinen T & **Koistinen J** (2021) Challenges and benefits of using unstructured citizen science data to estimate seasonal timing of bird migration across large scales. PLOS ONE 16(2): e0246572. <https://doi.org/10.1371/journal.pone.0246572>
 
