@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+**Bauer S**, **Farnsworth A** (2021) Animal migrations: spectacular and spectacularly threatened. _Environmental scientist_ 30(3): 4-9. <https://www.the-ies.org/environmental_scientist>
+
 **Nilsson C**, La Sorte FA, **Dokter AM**, Horton KG, Van Doren BM, Kolodzinski JJ, **Shamoun-Baranes J**, **Farnsworth A** (2021) Bird strikes at commercial airports explained by citizen science and weather radar data. _Journal of Applied Ecology_ 58: 2029–2039. <https://doi.org/10.1111/1365-2664.13971>
 
 **Nussbaumer R**, **Bauer S**, Benoit L, Mariethoz G, **Liechti F**, **Schmid B** (2021) Quantifying year-round nocturnal bird migration with a fluid dynamics model. _J. R. Soc. Interface_ 18: 20210194. <https://doi.org/10.1098/rsif.2021.0194>
