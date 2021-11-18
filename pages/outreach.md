@@ -7,8 +7,7 @@ permalink: /outreach/
 
 ## 2021
 
-- **Haest B, Bauer S, Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe
-through a network of vertical-looking radars. _Presentation_ at the online British Ecological Society Quantitative SIG annual meeting, 31 August - 2 September 2021. _Accepted talk_.
+- **Haest B**, **Bauer S**, **Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe through a network of vertical-looking radars. [British Ecological Society Quantitative SIG Annual Meeting](https://www.britishecologicalsociety.org/event/quantitative-sig-annual-meeting/), 31 August - 2 September 2021. _Accepted talk._
 
 ## 2020
 
