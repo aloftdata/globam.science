@@ -5,6 +5,11 @@ background: /assets/backgrounds/outreach.jpg
 permalink: /outreach/
 ---
 
+## 2021
+
+- **Haest B, Bauer S, Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe
+through a network of vertical-looking radars. _Presentation_ at the online British Ecological Society Quantitative SIG annual meeting, 31 August - 2 September 2021. _Accepted talk_.
+
 ## 2020
 
 - **Weisshaupt N** (2020) Kaukokartoitus lintututkimuksessa (Remote sensing in ornithological research). Monthly meeting of Pohjois-Pohjanmaan lintutieteellinen yhdistys, PPLY (North Ostrobothnian ornithological society), Finland, 14 October 2020. _Invited talk._
