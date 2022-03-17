@@ -6,6 +6,7 @@ permalink: /meetings/
 
 ## 2021
 
+- Progress meeting. Online, 17 March 2022
 - WP-leaders meeting. Online, 17 February 2022
 - WP-leaders meeting. Online, 16 December 2021
 - WP-leaders meeting. Online, 16 September 2021
