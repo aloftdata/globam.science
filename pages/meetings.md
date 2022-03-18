@@ -4,10 +4,13 @@ background: https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?ixlib=r
 permalink: /meetings/
 ---
 
-## 2021
+## 2022
 
 - Progress meeting. Online, 17 March 2022
 - WP-leaders meeting. Online, 17 February 2022
+
+## 2021
+
 - WP-leaders meeting. Online, 16 December 2021
 - WP-leaders meeting. Online, 16 September 2021
 - Progress meeting. Online, 1 July 2021
