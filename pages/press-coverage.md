@@ -5,6 +5,10 @@ background: https://images.unsplash.com/photo-1495020689067-958852a7765e?ixid=MX
 permalink: /press-coverage/
 ---
 
+## 2022
+
+Science: [Bright lights, big pity](https://www.science.org/content/article/radar-powered-forecasts-save-birds-deadly-city-lights). **Article**. 21 April 2022
+
 ## 2021
 
 The FINANCIAL: [Changes to European Meteorological Data Policies Threaten Aerial Biodiversity Monitoring](https://finchannel.com/world/80593-changes-to-european-meteorological-data-policies-threaten-aerial-biodiversity-monitoring). **Article**. 16 April 2021
