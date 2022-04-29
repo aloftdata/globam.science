@@ -7,7 +7,7 @@ permalink: /
 ---
 
 {: .alert .alert-info}
-Abstract submission is now open for our [3rd International Radar Aeroecology Conference (IRAC 2022)](/irac-2022/).
+Register now for the [3rd International Radar Aeroecology Conference (IRAC 2022)](/irac-2022/).
 
 **GloBAM** is a new research project funded by [BioDivERsa](http://www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, the Netherlands, the UK and the USA. The project has emerged from the [European Network for the Radar surveillance of Animal Movement](http://www.enram.eu), a multi-disciplinary network of international scientists who have taken up a world leading position in the use of radar in animal movement studies. 
 
