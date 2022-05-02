@@ -94,7 +94,7 @@ An insect monitoring radar (IMR) was established at Bourke (30.0392° S, 145.952
 
 We found that these two insect taxa have markedly different responses to wind and temperature. Large moths generally select nights with favourable wind directions and fly downwind, but with orientations to the left or right of their track in an apparent attempt to fly in a direction that is not simply downwind, in this case a more south-eastward direction. In contrast, Australian plague locusts are less selective in wind and usually orient towards the southeast in spring and northwest in autumn; they nevertheless are carried in a wide range of directions by the wind. Large moths are able to tolerate a large range of air temperatures (> 10°C) while locusts are more selective, requiring warm nights with temperatures of at least 18°C. In both cases however, the flight speeds of both insects are usually less than the wind speed, so that their tracks are dominated by wind transport. We argue that these differences in behaviour are a manifestation of not only differing migratory strategies for survival in uncertain environments, but also differing sensory and navigational capacities.
 
-{: id="hacr"}
+{: id="hach"}
 #### Weather surveillance radar for biodiversity monitoring in the UK
 
 **[Christopher Hassall](https://orcid.org/0000-0002-3510-0728)**, C. Hassall, M. Lukach, F. Addison, T. Dally, E. Duncan, W. Evans, M. Mungee, W. Kunin, J. Chapman, R. Lovelace, R. Neely III
@@ -145,7 +145,7 @@ In the present work, we show the application of a novel supervised Bayesian clas
 During their annual migrations billions of birds may encounter human infrastructure. To mitigate the risks of encounters for both humans and birds, temporary measures such as wind turbine shutdowns and flight safety warnings are implemented. To implement these mitigation measures forecasts for the expected intensity of migration are essential. We use weather radar data to monitor migration as these are an especially powerful tool since they operate continuously and cover a large area. Using a phenological model as a baseline, we develop a predictive model for bird migration designed for flight safety warnings for military aviation. Using 10 years of migration data within the Netherlands we predict the density of migrants based on weather conditions and the phenological model. Predictions from the ensemble model are evaluated for years omitted from the dataset and compared between the spring and fall migratory season. We find differences in both the important environmental variables and the predictability between seasons. In autumn the accumulation of migrants due to wind conditions is more important and environmental conditions contribute more to consistent predictions. We further investigate variation in diurnal migration phenology across Europe with respect to major migration barriers and season. We find spring migration is more uniformly distributed across the night in contrast to autumn migration which happens more in the first half of the night. Peaks around sunset are common in coastal areas. These findings suggest that underlying differences in phenology can and should be incorporated into mitigation measures to reduce conflicts between migratory birds and human activities or infrastructure.
 
 {: id="krje"}
-#### Patterns in High-altitude Bat Movement over Texas Revealed by Radar **speed talk**{: .badge .bg-secondary }
+#### Patterns in high-altitude bat movement over Texas revealed by radar **speed talk**{: .badge .bg-secondary }
 
 **[Jennifer Krauel](https://orcid.org/orcid.org/0000-0003-2207-8952)**, Gary McCracken, Andrew Farnsworth, Birgen Haest, Kyle G. Horton, Felix Liechti, Cecilia Nilsson, Baptiste Schmid
 
@@ -188,7 +188,7 @@ While the use of radars has allowed researchers to study how birds move through 
 Investigating terrestrial-aerial relationships in an integrative framework has the potential to quantify how aerial movements produces fluctuations in bird numbers on the ground at a daily timescale, and we evaluate the extent to which changes in arrival and departure lead to differences in reporting rates by field observer of the citizen-science project eBird . Providing insight into the connection between departure, movement and landing also provides insight into the environmental drivers behind stopover and migration decisions, and will contribute to conservation decisions for prioritizing important stopover habitats that is informed by the duration in which birds use these habitats.
 
 {: id="pegu"}
-#### Using Spatio-Temporal Information in Weather Radar Data to Detect Communal Bird Roosts
+#### Using spatio-temporal information in weather radar data to detect communal bird roosts
 
 **[Gustavo Perez](https://orcid.org// 0000-0003-3880-8075)**, Wenlong Zhao, Zezhou Cheng, Subhransu Maji, Daniel Sheldon
 
@@ -274,7 +274,7 @@ Our approach consisted of two stages. First, we labelled the data “Day” or �
 Using this novel dataset, we trained and tested 4 different classifying approaches on different combinations of RADAR feature that displayed good separation in the first stage and compared their performance. Data analysis reveals that the characteristics differentiating bats from other nocturnal aerial fauna are mainly related to size, speed and wing flapping. Based on these parameters we report successful separation of bats in RADAR data with over 90% accuracy using the bagged tree algorithm. In accordance to the unique anatomy of bat wings, it seems from our results that bats may have a typical wing beat pattern (pulse width, pause length relative to wing flapping frequency and speed), which is important in the separation between bats and similar objects.
 
 {: id="zeth"}
-#### A Bioenergetic Model to Facilitate Migratory Landbird Conservation along the Northern Gulf of Mexico Coast
+#### A bioenergetic model to facilitate migratory landbird conservation along the northern Gulf of Mexico coast
 
 **[Theodore Zenzal](https://orcid.org/0000-0001-7342-1373)**, Jeff Buler, James Cronin, Lori Randall, Wylie Barrow, Barry Wilson, Jaci Smolinsky, William Vermillion, Randy Wilson
 
@@ -297,7 +297,7 @@ Environmental conditions influence the density and movement of flying migrants a
 The movement properties of foraging animals are known to vary in relation to prey abundance, as described for terrestrial and marine environments. Yet, due to technological and logistical limitations, there is still lack of information regarding the foraging movements of aerial foragers. Specifically for insectivores, it is well established that insect abundance aloft is highly variable over time but it is not clear if and in what ways aerial insect predators respond to these dynamics. We used BirdScan-MR1 radar to estimate the Movement Traffic Rate (MTR) of insects over the Hula Valley in northeastern Israel and used tiny transmitters of the ATLAS system attached to Little swifts (_Apus affinis_) to investigate specific foraging movement properties. The unique combination of these two advanced systems allowed examining, for the first time, how the dynamics of insect densities affect the movement of aerial insectivores. We examined how insect MTR affected eight different movement properties of Little swifts during the breeding season. We found that insect MTR varied between different days by up to one order of magnitude. We found a decrease in the mean distance of the birds from the breeding colony but an increase in the length of daily foraging trajectory in days with higher insect MTR. Also in days with higher insect MTR, the rate of visits to the colony was lower and the arrival at the breeding colony at dusk was earlier. Additionally, the distance between individuals increased with higher insect MTR. We found no effect of insect MTR on the time of morning departure from the breeding colony, the flight speed of the birds, and the duration of visits at the breeding colony. The study shows that variation in the abundance of aerial insects influence key foraging movement properties, with possible impact on the breeding characteristics and potentially the reproductive output of swifts. In addition, it demonstrates the importance of studies that combine radar and biotelemetry methodologies for enhanced understanding of different ecological processes by providing a thorough exploration of predator-prey relationships in the airspace.
 
 {: id="cato"}
-#### Bird Migration Forecast : Developing Radar-Based Forecasts of Bird Migration over Switzerland
+#### Bird migration forecast: developing radar-based forecasts of bird migration over Switzerland
 
 **Tom Carrard**, Baptiste Schmid, Lukas Gudmundsson
 
@@ -315,7 +315,7 @@ Every spring and autumn, millions of birds migrate over Europe. They mainly do t
 CROW was jointly developed by the Research Institute for Nature and Forest (INBO) and the Royal Meteorological Institute of Belgium (RMI) in collaboration with the Royal Belgian Institute for Natural Sciences (RBINS), with financial support from the Belgian Science Policy Office (BelSPO valorisation project CROW). It is deployed at <https://www.meteo.be/birddetection> to show bird migration in real time across the Benelux. We are planning to deploy it for data in the ENRAM data repository (<https://enram.github.io/data-repository/>) as well.
 
 {: id="evts"}
-#### Aloft and On the Ground: Do Bird Radar data and Constant Effort Bird Ringing Data of Migrants in Eilat, Israel, correlate?
+#### Aloft and on the ground: do bird radar data and constant effort bird ringing data of migrants in Eilat, Israel, correlate?
 
 **Tsafra Evra**, Inbal Schekler, Noam Weiss, David Troupin, Nir Sapir
 
