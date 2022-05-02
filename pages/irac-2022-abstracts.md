@@ -1,7 +1,7 @@
 ---
-title: 3rd International Radar Aeroecology Conference
+title: Abstracts
 background: https://images.unsplash.com/photo-1516434233442-0c69c369b66d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000
-description: Abstracts of presentations and posters.
+description: Abstracts of talks and posters presented at [IRAC 2022](../).
 permalink: /irac-2022/abstracts/
 toc: true
 ---
