@@ -11,7 +11,7 @@ toc: true
 {: id="brma"}
 #### On the radar: offshore wind turbine curtailment informed by nocturnal bird migration predictions
 
-Bart Kranstauber, **[Maja Bradarić](https://orcid.org//0000-0003-2987-4855)**
+**[Maja Bradarić](https://orcid.org//0000-0003-2987-4855)**, Bart Kranstauber, Willem Bouten, Judy Shamoun-Baranes
 
 Each year millions of birds migrate nocturnally over the North Sea basin, an ecological barrier within the East Atlantic flyway designated for large scale offshore wind energy development. While wind energy is the key to reducing CO2 emissions in the region, it can be harmful to aerial wildlife through collisions and barrier effects.
 
