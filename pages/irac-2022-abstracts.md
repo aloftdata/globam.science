@@ -161,7 +161,7 @@ Desert locusts (_Schistocerca gregaria_) are the most dangerous of all migratory
 {: id="lifi"}
 #### Integrating deep learning with mechanistic modeling for spatio-temporal migration forecasts based on weather radar networks
 
-**[Fiona Lippert](https://orcid.org/0000-0003-4174-2230)**, Bart Kranstauber, ...
+**[Fiona Lippert](https://orcid.org/0000-0003-4174-2230)**, Bart Kranstauber, Patrick Forré, Emiel van Loon
 
 Weather radar networks make it possible to continuously monitor migratory movements of birds, bats and insects over unprecedented geographical expanses. This provides opportunities for developing large-scale migration forecasting systems that predict spatio-temporal movement patterns in near-real time and thereby allow for systematic prioritization of conservation and conflict mitigation efforts. However, the irregular and sparse spatial distribution of weather radars poses a challenge to spatio-temporal predictive modeling of migratory movements.
 
