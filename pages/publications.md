@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+**Weisshaupt N**, Leskinen M, Moisseev DN, **Koistinen J** (2022) Anthropogenic Illumination as Guiding Light for Nocturnal Bird Migrants Identified by Remote Sensing. _Remote Sensing_ 14(7): 1616. <https://doi.org/10.3390/rs14071616>
+
 **Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A**, van Gasteren H, **Haest B, Koistinen J, Kranstauber B, Liechti L, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2022) Meteorological Data Policies Needed to Support Biodiversity Monitoring with Weather Radar. _Bulletin of the American Meteorological Society_ 103(4): E1234-E1242. <https://doi.org/10.1175/BAMS-D-21-0196.1>
 
 La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 00: 1–18. <https://doi.org/10.1111/ddi.13499>
