@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+**Nussbaumer R**, **Schmid B**, **Bauer S**, **Liechti F** (2022) Favorable winds speed up bird migration in spring but not in autumn. _Ecology and Evolution_ 12: e9146. <https://doi.org/10.1002/ece3.9146>
+
 **Kranstauber B**, Bouten W, van Gasteren H, **Shamoun-Baranes J** (2022) Ensemble predictions are essential for accurate bird migration forecasts for conservation and flight safety. _Ecological Solutions and Evidence_ 3 (3): e12158. <https://doi.org/10.1002/2688-8319.12158>
 
 **Weisshaupt N**, Leskinen M, Moisseev DN, **Koistinen J** (2022) Anthropogenic Illumination as Guiding Light for Nocturnal Bird Migrants Identified by Remote Sensing. _Remote Sensing_ 14(7): 1616. <https://doi.org/10.3390/rs14071616>
