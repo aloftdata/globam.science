@@ -7,7 +7,7 @@ permalink: /press-coverage/
 
 ## 2022
 
-La Radio del Somormujo: [Programa 162 EN VIVO Delta Birding Festival](https://www.ivoox.com/radio-del-somormujo-programa-162-en-audios-mp3_rf_92854644_1.html) **Audio interview** with **Weisshaupt N** @ 50:40 (in Spanish). 24 September 2022.
+La Radio del Somormujo: [Programa 162 EN VIVO Delta Birding Festival](https://www.ivoox.com/radio-del-somormujo-programa-162-en-audios-mp3_rf_92854644_1.html). **Audio interview** with **Weisshaupt N** @ 50:40 (in Spanish). 24 September 2022.
 
 Science: [Bright lights, big pity](https://www.science.org/content/article/radar-powered-forecasts-save-birds-deadly-city-lights). **Article**. 21 April 2022
 
