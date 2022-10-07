@@ -7,7 +7,7 @@ permalink: /outreach/
 
 ## 2022
 
-- **Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain. _Invited talk._
+- **Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._
 - **Bauer S**, **Shamoun-Baranes J** (2022) Global movements under global changes. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Invited talk._
 - Bradarić M (2022) On the radar: offshore wind turbine curtailment informed by nocturnal bird migration predictions. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
 - **Desmet P** (2022) CROW: Visualize bird migration in your browser. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
