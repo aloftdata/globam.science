@@ -13,7 +13,7 @@ permalink: /publications/
 
 **Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A**, van Gasteren H, **Haest B, Koistinen J, Kranstauber B, Liechti L, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2022) Meteorological Data Policies Needed to Support Biodiversity Monitoring with Weather Radar. _Bulletin of the American Meteorological Society_ 103(4): E1234-E1242. <https://doi.org/10.1175/BAMS-D-21-0196.1>
 
-La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 00: 1–18. <https://doi.org/10.1111/ddi.13499>
+La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 28(5): 992-1009. <https://doi.org/10.1111/ddi.13499>
 
 **Bauer S**, **Farnsworth A** (2021) Animal migrations: spectacular and spectacularly threatened. _Environmental scientist_ 30(3): 4-9. <https://www.the-ies.org/environmental_scientist>
 
