@@ -7,7 +7,7 @@ permalink: /software/
 
 Carlsen A, Taylor L, Schloss M, Wolf H, **Dokter A** (2022) Migration Dashboard. <https://dashboard.birdcast.info>
 
-**Kranstauber B** (2022) StarstileServer. R package. [CRAN](https://cran.r-project.org/web/packages/starsTileServer/index.html), <https://bartk.gitlab.io/starsTileServer>
+**Kranstauber B** (2022) starsTileServer. R package. [CRAN](https://cran.r-project.org/web/packages/starsTileServer/index.html), <https://bartk.gitlab.io/starsTileServer>
 
 **Noé N**, Reyniers M, Van Hoey S, **Desmet P** (2021) CROW - Online tool to visualize birds detected by weather radars. <http://doi.org/10.5281/zenodo.4629449>
 

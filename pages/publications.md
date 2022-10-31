@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+Lippert F, **Kranstauber B**, Forré PD, van Loon EE (2022) Learning to predict spatiotemporal movement dynamics from weather radar networks. _Methods in Ecology and Evolution_ 1-16. <https://doi.org/10.1111/2041-210X.14007>
+
 **Nussbaumer R**, **Schmid B**, **Bauer S**, **Liechti F** (2022) Favorable winds speed up bird migration in spring but not in autumn. _Ecology and Evolution_ 12: e9146. <https://doi.org/10.1002/ece3.9146>
 
 **Kranstauber B**, Bouten W, van Gasteren H, **Shamoun-Baranes J** (2022) Ensemble predictions are essential for accurate bird migration forecasts for conservation and flight safety. _Ecological Solutions and Evidence_ 3 (3): e12158. <https://doi.org/10.1002/2688-8319.12158>
@@ -13,7 +15,7 @@ permalink: /publications/
 
 **Shamoun-Baranes J, Bauer S, Chapman JW, Desmet P, Dokter AM, Farnsworth A**, van Gasteren H, **Haest B, Koistinen J, Kranstauber B, Liechti L, Mason THE, Nilsson C, Nussbaumer R, Schmid B, Weisshaupt N, Leijnse H** (2022) Meteorological Data Policies Needed to Support Biodiversity Monitoring with Weather Radar. _Bulletin of the American Meteorological Society_ 103(4): E1234-E1242. <https://doi.org/10.1175/BAMS-D-21-0196.1>
 
-La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 00: 1–18. <https://doi.org/10.1111/ddi.13499>
+La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 28(5): 992-1009. <https://doi.org/10.1111/ddi.13499>
 
 **Bauer S**, **Farnsworth A** (2021) Animal migrations: spectacular and spectacularly threatened. _Environmental scientist_ 30(3): 4-9. <https://www.the-ies.org/environmental_scientist>
 
