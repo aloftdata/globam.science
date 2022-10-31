@@ -5,6 +5,25 @@ background: /assets/backgrounds/outreach.jpg
 permalink: /outreach/
 ---
 
+## 2022
+
+- **Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._
+- **Bauer S**, **Shamoun-Baranes J** (2022) Global movements under global changes. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Invited talk._
+- Bradarić M (2022) On the radar: offshore wind turbine curtailment informed by nocturnal bird migration predictions. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Desmet P** (2022) CROW: Visualize bird migration in your browser. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
+- **Dokter AM** (2022) Macro-demography of North America’s migratory birds. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Farnsworth A** (2022) From data to action: BirdCast perspectives on transforming bird migration science to conservation planning. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Haest B** (2022) Spatiotemporal movements of insects across Europe, quantified using a vertical-looking radar network. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Haest B** (2022) Climatic drivers of Bracken Cave (USA) bat migration phenology and demography. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
+- Hoekstra B (2022) Fireworks disturbance across bird communities. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Koistinen J** (2022) Bin-based polarimetric echo classification for spatially flexible aeroecological purposes in combination with citizen science. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Kranstauber B** (2022) Incorporating seasonal differences in phenology is essential for accurate bird migration forecasts. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Nussbaumer R** (2022) Aerial and terrestrial biomass flows of migratory birds across the US. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Liechti F** (2022) Recent achievements and future challenges in radar ornithology. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Invited talk._
+- van Erp J (2022) Identifying fine-scale flight behaviour in 2D bird radar tracks: marine thermal soaring on the North Sea. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
+- **Weisshaupt N** (2022) The impact of hydrometeors on bird migration as observed by various remote sensing systems. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
+- **Weisshaupt N** (2022) Dealiasing of radial velocities based on interleaved dual-PRF measurements and bin-based polarimetric echo classification. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
+
 ## 2021
 
 - **Haest B**, **Bauer S**, **Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe through a network of vertical-looking radars. [British Ecological Society Quantitative SIG Annual Meeting](https://www.britishecologicalsociety.org/event/quantitative-sig-annual-meeting/), 31 August - 2 September 2021. _Accepted talk._

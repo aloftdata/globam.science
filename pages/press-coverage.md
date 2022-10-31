@@ -5,6 +5,12 @@ background: https://images.unsplash.com/photo-1495020689067-958852a7765e?ixid=MX
 permalink: /press-coverage/
 ---
 
+## 2022
+
+La Radio del Somormujo: [Programa 162 EN VIVO Delta Birding Festival](https://www.ivoox.com/radio-del-somormujo-programa-162-en-audios-mp3_rf_92854644_1.html). **Audio interview** with **Weisshaupt N** @ 50:40 (in Spanish). 24 September 2022.
+
+Science: [Bright lights, big pity](https://www.science.org/content/article/radar-powered-forecasts-save-birds-deadly-city-lights). **Article**. 21 April 2022
+
 ## 2021
 
 The FINANCIAL: [Changes to European Meteorological Data Policies Threaten Aerial Biodiversity Monitoring](https://finchannel.com/world/80593-changes-to-european-meteorological-data-policies-threaten-aerial-biodiversity-monitoring). **Article**. 16 April 2021
@@ -15,11 +21,11 @@ BirdCast: [Weather radars’ role in biodiversity monitoring](https://birdcast.i
 
 University of Amsterdam: [Changes to European meteorological data policies threaten aerial biodiversity monitoring](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2021/04/changes-to-european-meteorological-data-policies-threaten-aerial-biodiversity-monitoring.html). **Press release** (also in [Dutch](https://www.uva.nl/shared-content/faculteiten/nl/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/nieuws/2021/04/veranderingen-in-het-europese-meteorologische-gegevensbeleid-vormen-een-bedreiging-voor-de-monitoring-van-de-biodiversiteit-in-de-lucht.html)). 15 April 2021
 
-BNNVARA: [Radar telt vogels boven Artis](https://www.bnnvara.nl/vroegevogels/artikelen/radar-telt-vogels). **Audio interview/article** (in Dutch). 11 April 2021
+BNNVARA: [Radar telt vogels boven Artis](https://www.bnnvara.nl/vroegevogels/artikelen/radar-telt-vogels). **Audio interview/article** with **Shamoun-Baranes J** (in Dutch). 11 April 2021
 
 Het Parool: [Deze vogelradar in Artis doet de inzet van vogelaars verbleken](https://www.parool.nl/amsterdam/deze-vogel-radar-in-artis-doet-de-inzet-van-vogelaars-verbleken~b682cbfe/). **Article** (in Dutch). 29 March 2021
 
-RTL: [Les radars météo permettent de suivre les migrations d'oiseaux](https://www.rtl.be/info/video/775413.aspx). **Video interview** (in French). 17 March 2021
+RTL: [Les radars météo permettent de suivre les migrations d'oiseaux](https://www.rtl.be/info/video/775413.aspx). **Video interview** with **Noé N** (in French). 17 March 2021
 
 Daily Science: [La migration des oiseaux en mode 2.0](https://dailyscience.be/15/03/2021/la-migration-des-oiseaux-en-mode-2-0/). **Article** (in French). 15 March 2021
 
