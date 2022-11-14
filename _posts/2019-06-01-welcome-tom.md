@@ -3,7 +3,7 @@ title: Tom Mason joins our team
 description: 
 background: /assets/backgrounds/2019-06-01-welcome-tom.jpg
 author: Silke Bauer
-categories: [team]
+tags: [team]
 ---
 
 We would like to welcome Tom Mason, who has joined our [GloBAM team](/team/) as post-doctoral researcher.

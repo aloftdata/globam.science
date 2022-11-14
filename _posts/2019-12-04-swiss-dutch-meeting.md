@@ -3,7 +3,7 @@ title: Swiss-Dutch coordination meeting
 description: Summary of catch-up meeting between Swiss and Dutch GloBAM team members on 6-8 November 2019.  
 background: /assets/backgrounds/2019-11-07-uva-birdscan-radar.jpg
 author: Tom Mason
-categories: [meetings]
+tags: [meetings]
 ---
 
 The Swiss contingent of GloBAM recently visited Judy Shamoun-Baranes and team members based at the [University of Amsterdam (UvA)](https://www.uva.nl/) to discuss our latest progress and to coordinate our research activities. What followed was two days of engaging discussions, interspersed with opportunities to sample some hearty Dutch food and beer.

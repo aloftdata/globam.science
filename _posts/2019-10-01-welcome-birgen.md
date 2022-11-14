@@ -3,7 +3,7 @@ title: Birgen Haest joins our team
 description: 
 background: /assets/backgrounds/2019-10-01-welcome-birgen.jpg
 author: Silke Bauer
-categories: [team]
+tags: [team]
 ---
 
 We would like to welcome Birgen Haest, who has joined our [GloBAM team](/team/) as post-doctoral researcher.
