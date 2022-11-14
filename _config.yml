@@ -24,6 +24,7 @@ remote_theme: peterdesmet/petridish
 posts_on_home: 3
 tweets_on_home: true
 archive_permalink: /news/
+github_edit: true
 logo: /assets/images/globam-nav-logo.png
 colors:
   links: "#93c243"
