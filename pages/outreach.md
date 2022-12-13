@@ -8,6 +8,7 @@ permalink: /outreach/
 ## 2022
 
 - **Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._ <https://youtu.be/qrxpl2yBP-o>
+- **Weisshaupt N** (2022) Polarimetric echo classification for high-resolution aerofaunal analyses. World Biodiversity Forum, Davos, Switzerland, 26 June – 1 July 2022. _Accepted talk._
 - **Bauer S**, **Shamoun-Baranes J** (2022) Global movements under global changes. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Invited talk._
 - Bradarić M (2022) On the radar: offshore wind turbine curtailment informed by nocturnal bird migration predictions. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Accepted talk._
 - **Desmet P** (2022) CROW: Visualize bird migration in your browser. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
@@ -26,6 +27,7 @@ permalink: /outreach/
 
 ## 2021
 
+- **Weisshaupt N** (2021) Synergies between citizen science and weather radar research. Developments in monitoring science, BOU Zoom conference, 24-25 November 2021. _Accepted talk._
 - **Haest B**, **Bauer S**, **Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe through a network of vertical-looking radars. [British Ecological Society Quantitative SIG Annual Meeting](https://www.britishecologicalsociety.org/event/quantitative-sig-annual-meeting/), 31 August - 2 September 2021. _Accepted talk._
 
 ## 2020
