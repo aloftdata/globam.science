@@ -6,6 +6,7 @@ permalink: /press-coverage/
 ---
 
 ## 2022
+OZY: [The race to save 1 billion feathered friends](https://www.ozy.com/pg/newsletter/the-daily-dose/454195/). **Article**. 7 December 2022.
 
 La Radio del Somormujo: [Programa 162 EN VIVO Delta Birding Festival](https://www.ivoox.com/radio-del-somormujo-programa-162-en-audios-mp3_rf_92854644_1.html). **Audio interview** with **Weisshaupt N** @ 50:40 (in Spanish). 24 September 2022.
 
