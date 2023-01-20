@@ -2,6 +2,7 @@
 title: Meetings
 background: https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000
 permalink: /meetings/
+toc: true
 ---
 
 ## 2022

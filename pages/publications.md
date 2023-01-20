@@ -3,7 +3,10 @@ title: Publications
 description: 
 background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000
 permalink: /publications/
+toc: true
 ---
+
+## 2022
 
 Mäkinen T, Ritvanen J, Pulkkinen S, **Weisshaupt N**, **Koistinen J** (2022) Bayesian classification of non-meteorological targets in polarimetric Doppler radar measurements. _JTECH_ 39(10): 1561–1578. <https://doi.org/10.1175/JTECH-D-21-0177.1>
 
@@ -19,6 +22,8 @@ Lippert F, **Kranstauber B**, Forré PD, van Loon EE (2022) Learning to predict 
 
 La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Auer T, Strimas‐Mackey M (2022) The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds. _Diversity and Distributions_ 28(5): 992-1009. <https://doi.org/10.1111/ddi.13499>
 
+## 2021
+
 **Bauer S**, **Farnsworth A** (2021) Animal migrations: spectacular and spectacularly threatened. _Environmental scientist_ 30(3): 4-9. <https://www.the-ies.org/environmental_scientist>
 
 **Nilsson C**, La Sorte FA, **Dokter AM**, Horton KG, Van Doren BM, Kolodzinski JJ, **Shamoun-Baranes J**, **Farnsworth A** (2021) Bird strikes at commercial airports explained by citizen science and weather radar data. _Journal of Applied Ecology_ 58: 2029–2039. <https://doi.org/10.1111/1365-2664.13971>
@@ -31,6 +36,8 @@ La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Au
 
 **Weisshaupt N**, Lehikoinen A, Mäkinen T & **Koistinen J** (2021) Challenges and benefits of using unstructured citizen science data to estimate seasonal timing of bird migration across large scales. _PLOS ONE_ 16(2): e0246572. <https://doi.org/10.1371/journal.pone.0246572>
 
+## 2020
+
 **Weisshaupt N**, Lehtiniemi T, **Koistinen J** (2020) Combining citizen science and weather radar data to study large‐scale bird movements. _Ibis_. <https://doi.org/10.1111/ibi.12906>
 
 **Haest B**, Stepanian PM, Wainwright C, **Liechti F**, **Bauer S** (2020) Climatic drivers of (changes in) bat migration phenology at Bracken Cave (USA). _Global Change Biology_. <https://doi.org/10.1111/gcb.15433>
@@ -42,6 +49,8 @@ La Sorte FA, Johnston A, Rodewald AD, Fink D, **Farnsworth A**, Van Doren BM, Au
 **Weisshaupt N** & **Koistinen J** (2020) Muuton seuranta säätutkilla. _Linnut_ 1: 24-27. [pdf](/assets/docs/2020_Weisshaupt_Linnut_1.pdf)
 
 Horton KG, La Sorte FA, Sheldon D, Lin T-Y, Winner K, Bernstein G, Maji S, Hochachka WM, **Farnsworth A** (2020) Phenology of nocturnal avian migration has shifted at the continental scale. _Nature Climate Change_ 10: 63–68. <https://doi.org/10.1038/s41558-019-0648-9>
+
+## 2019
 
 Rosenberg KV, **Dokter AM**, Blancher PJ, Sauer JR, Smith AC, Smith PA, Stanton JC, Panjabi A, Helft L, Parr M, Marra PP (2019) Decline of the North American avifauna. _Science_ 366(6461): 120-124. <https://doi.org/10.1126/science.aaw1313>
 
