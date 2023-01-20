@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+Mäkinen T, Ritvanen J, Pulkkinen S, **Weisshaupt N**, **Koistinen J** (2022) Bayesian classification of non-meteorological targets in polarimetric Doppler radar measurements. _JTECH_ 39(10): 1561–1578. <https://doi.org/10.1175/JTECH-D-21-0177.1>
+
 Lippert F, **Kranstauber B**, Forré PD, van Loon EE (2022) Learning to predict spatiotemporal movement dynamics from weather radar networks. _Methods in Ecology and Evolution_ 1-16. <https://doi.org/10.1111/2041-210X.14007>
 
 **Nussbaumer R**, **Schmid B**, **Bauer S**, **Liechti F** (2022) Favorable winds speed up bird migration in spring but not in autumn. _Ecology and Evolution_ 12: e9146. <https://doi.org/10.1002/ece3.9146>
