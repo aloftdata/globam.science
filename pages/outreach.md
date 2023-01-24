@@ -44,6 +44,8 @@ van Erp J (2022) Identifying fine-scale flight behaviour in 2D bird radar tracks
 
 **Weisshaupt N** (2022) Dealiasing of radial velocities based on interleaved dual-PRF measurements and bin-based polarimetric echo classification. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Poster._
 
+**Schmid B**, **Nussbaumer R**, **Dokter AM** (2022) Quantitative monitoring of migratory birds: novel perspectives using radar and citizen science. [Bird Numbers 2022](https://www.ebcc2022.ch/), Lucerne, Switzerland, 4-8 April 2022. _Accepted talk._
+
 ## 2021
 
 **Weisshaupt N** (2021) Synergies between citizen science and weather radar research. Developments in monitoring science, BOU Zoom conference, 24-25 November 2021. _Accepted talk._
