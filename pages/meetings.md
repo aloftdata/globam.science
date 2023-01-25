@@ -9,8 +9,8 @@ toc: true
 
 - WP-leaders meeting. Online, 24 November 2022
 - WP-leaders meeting. Online, 15 September 2022
-- GloBAM progress meeting. Davos, Switzerland, 27 June 2022
-- IRAC 2022 conference. Davos, Switzerland, 25-26 June 2022
+- Final meeting. Davos, Switzerland, 27 June 2022
+- 3rd IRAC conference. Davos, Switzerland, 25-26 June 2022
 - WP-leaders meeting. Online, 16 June 2022.
 - Data meeting. Online, 10 June 2022
 - WP-leaders meeting. Online, 19 May 2022
@@ -30,12 +30,13 @@ toc: true
 
 ## 2020
 
-- General meeting. Online, 28-30 October 2020
+- Progress meeting. Online, 28-30 October 2020
 - Data quality assessment workshop. Online, 20-21 April 2020
 - bioRad coding sprint. Online, 14-17 April 2020
 
 ## 2019
 
 - Data infrastructure meeting. Amsterdam, Netherlands, 27 November 2019
+- 2nd IRAC conference. Zhengzhou, China, 21-24 September 2019 - [Meeting summary]({% post_url 2019-10-28-irac %})
 - Swiss-Dutch coordination meeting. Amsterdam, Netherlands, 6-8 November 2019 - [Meeting summary]({% post_url 2019-12-04-swiss-dutch-meeting %})
 - Kick-off meeting. Sempach, Switzerland, 8-10 April 2019
