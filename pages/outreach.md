@@ -8,11 +8,11 @@ toc: true
 
 ## 2022
 
+**Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._ <https://youtu.be/qrxpl2yBP-o>
+
 **Kranstauber B** (2022) Seasonal differences essential for accurate bird migration forecasts for conservation and flight safety. [Netherlands Annual Ecology Meeting](https://www.nern.nl/sites/default/files/Reader_2022_revised%20v3.pdf), Lunteren, The Netherlands, 20-21 September 2022. _Accepted talk._
 
 **Shamoun-Baranes J** (2022) Migration through the troposphere. [Netherlands Annual Ecology Meeting](https://www.nern.nl/sites/default/files/Reader_2022_revised%20v3.pdf), Lunteren, The Netherlands, 20-21 September 2022. _Invited talk._
-
-**Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._ <https://youtu.be/qrxpl2yBP-o>
 
 **Haest B**, **Schmid B**, Hertner F, Kleger D, Sapir N, Werber Y, **Liechti F** (2022) Simultaneous monitoring of the aerial biomass flow of insects, birds and bats. World Biodiversity Forum, Davos, Switzerland, 26 June – 1 July 2022. _Accepted talk._
 
@@ -56,9 +56,9 @@ van Erp J (2022) Identifying fine-scale flight behaviour in 2D bird radar tracks
 
 **Kranstauber B** (2021) The application of weather radar for monitoring bird migrations and local movement. [BOUsci21](https://bou.org.uk/wp-content/uploads/2021/09/BOUsci21-Zoom-programme-for-web_2021-09-29.pdf), 24-25 November 2021. _Accepted talk._
 
-**Kranstauber B** (2021) Interactions of animals with their environment. [IMPRS: The challenges of big data - From biologists to becoming data scientists](https://www.bi.mpg.de/events/28719/3578959), Germany, 11-13 October 2021. _Invited talk._
+**Weisshaupt N** (2021) Synergies between citizen science and weather radar research. Developments in monitoring science, [BOUsci21](https://bou.org.uk/wp-content/uploads/2021/09/BOUsci21-Zoom-programme-for-web_2021-09-29.pdf), 24-25 November 2021. _Accepted talk._
 
-**Weisshaupt N** (2021) Synergies between citizen science and weather radar research. Developments in monitoring science, BOU Zoom conference, 24-25 November 2021. _Accepted talk._
+**Kranstauber B** (2021) Interactions of animals with their environment. [IMPRS: The challenges of big data - From biologists to becoming data scientists](https://www.bi.mpg.de/events/28719/3578959), Germany, 11-13 October 2021. _Invited talk._
 
 **Haest B**, **Bauer S**, **Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe through a network of vertical-looking radars. [British Ecological Society Quantitative SIG Annual Meeting](https://www.britishecologicalsociety.org/event/quantitative-sig-annual-meeting/), 31 August - 2 September 2021. _Accepted talk._
 
