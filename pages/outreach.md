@@ -16,6 +16,8 @@ toc: true
 
 **Haest B**, **Schmid B**, Hertner F, Kleger D, Sapir N, Werber Y, **Liechti F** (2022) Simultaneous monitoring of the aerial biomass flow of insects, birds and bats. World Biodiversity Forum, Davos, Switzerland, 26 June – 1 July 2022. _Accepted talk._
 
+**Shamoun-Baranes J** (2022) Towards a data-infrastructure for monitoring and forecasting migration. World Biodiversity Forum, Davos, Switzerland, 26 June – 1 July 2022. _Accepted talk._
+
 **Weisshaupt N** (2022) Polarimetric echo classification for high-resolution aerofaunal analyses. World Biodiversity Forum, Davos, Switzerland, 26 June – 1 July 2022. _Accepted talk._
 
 **Bauer S**, **Shamoun-Baranes J** (2022) Global movements under global changes. [3nd International Radar Aeroecology Conference](https://globam.science/irac-2022), Davos, Switzerland, 25-26 June 2022. _Invited talk._
