@@ -31,7 +31,7 @@ toc: true
 ## 2020
 
 - General meeting. Online, 28-30 October 2020
-- Data quality assessment meeting. Online, 20-21 April 2020
+- Data quality assessment workshop. Online, 20-21 April 2020
 - bioRad coding sprint. Online, 14-17 April 2020
 
 ## 2019
