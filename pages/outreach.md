@@ -64,6 +64,10 @@ van Erp J (2022) Identifying fine-scale flight behaviour in 2D bird radar tracks
 
 **Haest B**, **Bauer S**, **Liechti F** on behalf of entire MoveInEurope team (2021) MoveInEurope: Quantifying insect biomass and activity patterns across Europe through a network of vertical-looking radars. [British Ecological Society Quantitative SIG Annual Meeting](https://www.britishecologicalsociety.org/event/quantitative-sig-annual-meeting/), 31 August - 2 September 2021. _Accepted talk._
 
+**Shamoun-Baranes J** (2021) How birds interact with and connect aerial, terrestrial and aquatic environments. NWO Life, virtual conference, 26-28 May 2021. _Invited talk._
+
+**Shamoun-Baranes J** (2021) How radar aeroecology can contribute to flight safety. World Birdstrike Association, virtual conference, 13-14 January 2021. _Invited talk._
+
 ## 2020
 
 **Weisshaupt N** (2020) Kaukokartoitus lintututkimuksessa (Remote sensing in ornithological research). Monthly meeting of Pohjois-Pohjanmaan lintutieteellinen yhdistys, PPLY (North Ostrobothnian ornithological society), Finland, 14 October 2020. _Invited talk._
