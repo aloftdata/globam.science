@@ -68,7 +68,6 @@ van Erp J (2022) Identifying fine-scale flight behaviour in 2D bird radar tracks
 
 **Shamoun-Baranes J** (2021) How radar aeroecology can contribute to flight safety. World Birdstrike Association, virtual conference, 13-14 January 2021. _Invited talk._
 
-
 ## 2020
 
 **Weisshaupt N** (2020) Kaukokartoitus lintututkimuksessa (Remote sensing in ornithological research). Monthly meeting of Pohjois-Pohjanmaan lintutieteellinen yhdistys, PPLY (North Ostrobothnian ornithological society), Finland, 14 October 2020. _Invited talk._
