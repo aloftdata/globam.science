@@ -8,7 +8,7 @@ tags: [software]
 
 New technologies were needed to address the challenge of visualizing large archives of weather radar data and bird specific products interactively. The goal of the R package [starsTileServer](https://cran.r-project.org/web/packages/starsTileServer/index.html) is to provide a simple way to add large data sets to a leaflet or shiny application.
 
-![img](/assets/images/2022-01-21-starsTileServer.png){: .d-inline .w-50}![img](/assets/images/2022-01-21-starsTileServer_2.png){: .d-inline .w-50}
+![img](/assets/images/2022-01-21-starsTileServer.png){:.d-inline .w-50}![img](/assets/images/2022-01-21-starsTileServer_2.png){:.d-inline .w-50}
 _Example visualizing birds and velocities from meteorological radar data_
 
 Although the need arose from visualizing radar data the application is more general. Because it is possible to provide custom functions pretty much any data that can be projected, can be visualized, including composites or non square grids.
