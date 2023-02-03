@@ -10,7 +10,7 @@ social:
 
 # THEME SETTINGS
 theme: minima # Fallback theme
-remote_theme: peterdesmet/petridish
+remote_theme: peterdesmet/petridish@3.0
 posts_on_home: 3
 tweets_on_home: true
 archive_permalink: /news/
