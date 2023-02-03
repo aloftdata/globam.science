@@ -1,22 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # SITE SETTINGS
 title: GloBAM
-description: Monitoring, understanding and forecasting global biomass flows of aerial migrants
 author: GloBAM partners
 
 # SOCIAL PROFILES
-email: globam@vogelwarte.ch
-twitter_username: globam_net
-github_username: enram
+social:
+  email: globam@vogelwarte.ch
+  twitter: globam_net
+  github: enram
 
 # THEME SETTINGS
 theme: minima # Fallback theme
@@ -33,9 +23,9 @@ colors:
 
 # BUILD SETTINGS
 markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
-  - jekyll-feed                         # Create RSS feed for posts
-  - jekyll-sitemap                      # Create sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - README.md
   - Gemfile
