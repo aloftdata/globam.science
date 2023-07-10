@@ -6,6 +6,10 @@ permalink: /outreach/
 toc: true
 ---
 
+## 2023
+
+**GloBAM consortium**, Biodiversa+ & Squarefish (2023) The GloBAM project - Monitoring, understanding & forecasting global biomass flows of aerial migrants. 6 July 2023. _Animated movie._ <https://youtu.be/BjQQeXGvYc4>
+
 ## 2022
 
 **Weisshaupt N** (2022) Beneficios y retos de usar ciencia ciudadana con radares meteorológicos en estudios de migración. Delta Birding Festival, Ebro delta, Catalonia, Spain, 24 September 2022. _Invited talk._ <https://youtu.be/qrxpl2yBP-o>
