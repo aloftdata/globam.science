@@ -8,7 +8,7 @@ toc: true
 
 ## 2023
 
-**Kranstauber B**, **Bauer S**, **Shamoun-Baranes J** (2023) Geographic barriers and season shape the nightly timing of avian migration. _Global Ecology and Biogeography_ 1-9. <https://onlinelibrary.wiley.com/doi/10.1111/geb.13742>
+**Kranstauber B**, **Bauer S**, **Shamoun-Baranes J** (2023) Geographic barriers and season shape the nightly timing of avian migration. _Global Ecology and Biogeography_ 1-9. <https://doi.org/10.1111/geb.13742>
 
 ## 2022
 
