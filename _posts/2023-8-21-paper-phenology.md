@@ -1,7 +1,7 @@
 
 title: Paper out on the nightly timing of migration
 description: Geographic barriers and season shape the nightly timing of avian migration 
-background: /assets/backgrounds/2020-11-05-paper-brackencave-phenology.jpg
+background: /assets/backgrounds/2023-8-21-paper-phenology.jpg
 author: Bart Kranstauber
 tags: [papers]
 ---
