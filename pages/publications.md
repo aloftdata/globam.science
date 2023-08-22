@@ -6,6 +6,10 @@ permalink: /publications/
 toc: true
 ---
 
+## 2023
+
+**Kranstauber B**, **Bauer S**, **Shamoun-Baranes J** (2023) Geographic barriers and season shape the nightly timing of avian migration. _Global Ecology and Biogeography_ 1-9. <https://doi.org/10.1111/geb.13742>
+
 ## 2022
 
 Mäkinen T, Ritvanen J, Pulkkinen S, **Weisshaupt N**, **Koistinen J** (2022) Bayesian classification of non-meteorological targets in polarimetric Doppler radar measurements. _JTECH_ 39(10): 1561–1578. <https://doi.org/10.1175/JTECH-D-21-0177.1>
