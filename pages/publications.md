@@ -8,6 +8,8 @@ toc: true
 
 ## 2023
 
+Hoekstra B, Bouten W, **Dokter AM**, van Gasteren H, van Turnhout C, **Kranstauber B**, van Loon E, **Leijnse H**, **Shamoun-Baranes J** (2023) Fireworks disturbance across bird communities. _Frontiers in Ecology and the Environment_ 1540-9295. <https://doi.org/10.1002/fee.2694>
+
 **Kranstauber B**, **Bauer S**, **Shamoun-Baranes J** (2023) Geographic barriers and season shape the nightly timing of avian migration. _Global Ecology and Biogeography_ 1-9. <https://doi.org/10.1111/geb.13742>
 
 ## 2022
