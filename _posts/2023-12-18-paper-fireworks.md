@@ -1,15 +1,16 @@
 ---
 title: Millions of birds lose precious energy due to fireworks on New Year’s Eve
-description: Birds are affected by the mass use of fireworks on New Year's Eve up to a distance of 10 km away
+description: Birds are affected by the mass use of fireworks on New Year's Eve up to a distance of 10 km away.
 background: /assets/backgrounds/2023-12-18-paper-fireworks.jpg
 author: Bart Kranstauber
 tags: [papers]
 ---
 
-
 Birds are affected by the mass use of fireworks on New Year's Eve up to a distance of 10 km away. With data from weather radars and bird counts an international team of researchers revealed how many birds take off immediately after the start of the fireworks, at what distance from fireworks this occurs and which species groups mainly react. ‘We already knew that many water birds react strongly, but now we also see the effect on other birds throughout the Netherlands’, says ecologist Bart Hoekstra of the University of Amsterdam. In the scientific journal [Frontiers in Ecology and the Environment](https://doi.org/10.1002/fee.2694), the researchers therefore argue for large fireworks-free zones.
 
-<iframe src="https://player.vimeo.com/video/887618127?h=5823889f2a&color=efeb00&title=0&byline=0&portrait=0" width="640" height="828" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-4x3 mb-3">
+  <iframe src="https://player.vimeo.com/video/887618127" frameborder="0" allowfullscreen></iframe>
+</div>
 
 On New Year's Eve, an average of 1,000 times as many birds are in the air close to where fireworks are set off as on other nights, with peaks of 10,000 to 100,000 times the normal number of birds. The effects are strongest within the first 5 km of fireworks, but up to 10 km there are still an average of at least 10 times as many birds flying as normal.
 
