@@ -6,6 +6,10 @@ permalink: /publications/
 toc: true
 ---
 
+## 2024
+
+Howard C, **Mason THE**, Baillie SR, Border J, Hewson CM, Houston AI, Pearce-Higgins JW, **Bauer S**, Willis SG, Stephens PA (2024) Explaining and predicting animal migration under global change. _Diversity and Distributions_ 30: e13797. <https://doi.org/10.1111/ddi.13797>
+
 ## 2023
 
 Hoekstra B, Bouten W, **Dokter AM**, van Gasteren H, van Turnhout C, **Kranstauber B**, van Loon E, **Leijnse H**, **Shamoun-Baranes J** (2023) Fireworks disturbance across bird communities. _Frontiers in Ecology and the Environment_ 1540-9295. <https://doi.org/10.1002/fee.2694>
