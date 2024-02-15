@@ -8,6 +8,8 @@ toc: true
 
 ## 2024
 
+Briedis M, Hahn S, **Bauer S** (2024) Duration and variability of spring green-up mediate population consequences of climate change. _Ecology Letters_ 27, e14380. <https://doi.org/10.1111/ele.14380>
+
 Howard C, **Mason THE**, Baillie SR, Border J, Hewson CM, Houston AI, Pearce-Higgins JW, **Bauer S**, Willis SG, Stephens PA (2024) Explaining and predicting animal migration under global change. _Diversity and Distributions_ 30: e13797. <https://doi.org/10.1111/ddi.13797>
 
 ## 2023
