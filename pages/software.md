@@ -8,9 +8,9 @@ toc: true
 
 ## 2022
 
-**Desmet P**, **Dokter AM** (2022) VPTS CSV. _Data exchange format._ <https://github.com/enram/vpts-csv>
+**Desmet P**, **Dokter AM** (2022) VPTS CSV. _Data exchange format._ <https://github.com/aloftdata/vpts-csv>
 
-Van Hoey S, **Noé N**, **Desmet P** (2022) vptstools (pre-release). _Python package._ <https://github.com/enram/vptstools>
+Van Hoey S, **Noé N**, **Desmet P** (2022) vptstools (pre-release). _Python package._ <https://github.com/aloftdata/vptstools>
 
 **Noé N**, Reyniers M, Van Hoey S, **Desmet P** (2022) CROW 1.3. _Vizualization tool._ <https://github.com/inbo/crow/releases/tag/v1.3>, <https://doi.org/10.5281/zenodo.7372679>
 

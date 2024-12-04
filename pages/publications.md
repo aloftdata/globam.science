@@ -68,4 +68,4 @@ Rosenberg KV, **Dokter AM**, Blancher PJ, Sauer JR, Smith AC, Smith PA, Stanton 
 
 **Nussbaumer R**, Benoit L, Mariethoz G, **Liechti F**, **Bauer S**, **Schmid BA** (2019) Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network. _Remote Sensing_ 11: 2233. <https://doi.org/10.3390/rs11192233>
 
-**Desmet P**, **Nilsson C**, **Dokter A** (2019) GloBAM Data Management Plan. Version 2019-09-13. <https://enram.github.io/globam-dmp/>
+**Desmet P**, **Nilsson C**, **Dokter A** (2019) GloBAM Data Management Plan. Version 2019-09-13. <https://aloftdata.github.io/globam-dmp/>
