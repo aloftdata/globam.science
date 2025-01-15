@@ -9,7 +9,7 @@ permalink: /
 {:.alert .alert-info}
 GloBAM officially concluded in December 2022. Thanks to all who contributed! See our **Outputs** and **IRAC 2022 conference** in the top navigation. We'll continue to add new project outputs once they are published. Want to keep up with all things radar aeroecology? Join the mailing list at <https://groups.google.com/g/radar-aeroecology>.
 
-**GloBAM** is a research project funded by [BioDivERsa](http://www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, the Netherlands, the UK and the USA. The project has emerged from the [European Network for the Radar surveillance of Animal Movement](http://www.enram.eu), a multi-disciplinary network of international scientists who have taken up a world leading position in the use of radar in animal movement studies.
+**GloBAM** is a research project funded by [BioDivERsa](http://www.biodiversa.org) with partners from across Switzerland, Belgium, Finland, the Netherlands, the UK and the USA. The project has emerged from the [European Network for the Radar surveillance of Animal Movement](https://enram.eu), a multi-disciplinary network of international scientists who have taken up a world leading position in the use of radar in animal movement studies.
 
 <div class="ratio ratio-16x9 mb-3">
 <iframe src="https://www.youtube.com/embed/BjQQeXGvYc4" frameborder="0" allowfullscreen></iframe>
