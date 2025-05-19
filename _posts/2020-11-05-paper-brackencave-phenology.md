@@ -3,7 +3,7 @@ title: Paper out on bat migration ecology
 description: How does climate (change) affect the timing of bat migration at Bracken Cave (USA)?
 background: /assets/backgrounds/2020-11-05-paper-brackencave-phenology.jpg
 author: Birgen Haest
-tags: [papers]
+tags: [paper]
 ---
 
 Climate (change) has been repeatedly shown to strongly affect when birds migrate. For other animal taxa such as bats and insects, knowledge on the effects of climate (change) on their migration phenology remains rather limited. Perhaps the biggest obstacle is the lack of long-term phenology datasets. 

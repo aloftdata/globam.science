@@ -3,7 +3,7 @@ title: BioDivERsa kick-off meeting and stakeholder workshop
 description: A summary of the BioDivERsa kick-off meeting in Helsinki, Finland on 14-16 May 2019.
 background: /assets/backgrounds/2019-05-20-biodiversa-kick-off.jpg
 author: [Silke Bauer, Peter Desmet]
-tags: [meetings]
+tags: [meeting]
 ---
 
 Peter, Nadja and Silke attended the kick-off meeting organized for all 21 projects funded within the [2017-2018 Joint BiodivERsA-Belmont Forum Call on "Scenarios of Biodiversity and Ecosystem services"](https://www.biodiversa.org/1400). This 3-in-1 meeting consisted of a data management workshop, the kick-off meeting, and a research and innovation workshop with stakeholders.
